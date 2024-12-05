@@ -4,7 +4,7 @@ CREATE TABLE Restaurants(
 	City VARCHAR(50) NOT NULL,
 	TableCapacity INT NOT NULL CHECK(TableCapacity > 0),
 	WorkingHours VARCHAR(50) NOT NULL,
-	GeoLocation POINT,
+	GeoLocation VARCHAR(50),
 	Delivery BOOLEAN DEFAULT FALSE
 );
 
@@ -14,14 +14,14 @@ CREATE TABLE Menus(
 	Title VARCHAR(100) NOT NULL,
 	Category VARCHAR(20) NOT NULL CHECK(Category IN ('appetizer', 'main course', 'dessert')),
 	Price DECIMAL(10, 2) NOT NULL CHECK(Price > 0),
-	Calories INT NOT NULL CHECK(Calories > 0),
+	Calories DECIMAL NOT NULL CHECK(Calories > 0),
 	Available BOOLEAN NOT NULL DEFAULT TRUE
 );
 
 CREATE TABLE Customers(
 	Id SERIAL PRIMARY KEY,
 	Name VARCHAR(50) NOT NULL,
-	LoyaltyCard BOOLEAN DEFAULT FALSE
+	LoyaltyCard BOOLEAN DEFAULT FALSE,
 	NumberOfOrders INT,
 	Surname VARCHAR(30)
 );
@@ -53,6 +53,9 @@ CREATE TABLE Staff(
 	DriversLicence BOOLEAN CHECK(Role != 'delivery man' OR DriversLicence = TRUE)
 );
 
+ALTER TABLE Staff
+DROP CONSTRAINT staff_check;
+
 CREATE TABLE EmployeeWorkPeriods(
 	Id SERIAL PRIMARY KEY,
     StaffId INT NOT NULL REFERENCES Staff(Id),
@@ -69,7 +72,7 @@ CREATE TABLE Reviews(
     OrderId INT REFERENCES Orders(Id),
    	Review INT NOT NULL CHECK (Review BETWEEN 1 AND 5),
     Comment TEXT,
-	RestaurantId INT REFERENCES Restaurants(id);
+	RestaurantId INT REFERENCES Restaurants(id)
 );
 
 CREATE TABLE Delivery(
@@ -77,15 +80,18 @@ CREATE TABLE Delivery(
     OrderId INT NOT NULL REFERENCES Orders(Id),
     TimeofDelivery TIMESTAMP NOT NULL,
     Note TEXT,
-	RestaurantId INT,
-	Status TEXT
+	StaffId INT NOT NULL REFERENCES Staff(Id),
+	RestaurantId INT NOT NULL REFERENCES Restaurants(Id),
+	Status TEXT NOT NULL CHECK (Status IN ('completed', 'failed'))
 );
-
-ALTER TABLE Delivery
-ADD CONSTRAINT ForeignStaffId FOREIGN KEY(StaffId) REFERENCES Staff(Id);
-
 
 CREATE TABLE LoyaltyCards(
     CustomerId INT PRIMARY KEY REFERENCES Customers(Id),
     TimeOfCreation TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
+ALTER TABLE LoyaltyCards DROP CONSTRAINT loyaltycards_pkey;
+
+-- privremeno uklanjanje, da bi mogli dodat podatke
+
+ALTER TABLE LoyaltyCards ADD CONSTRAINT loyaltycards_pkey PRIMARY KEY (CustomerId);

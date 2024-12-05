@@ -1,501 +1,500 @@
-Id,RestaurantId,Title,Category,Price,Calories,Available
-1,284,Giant girdled lizard,dessert,40.29,726.42,true
-2,132,"Dragon, ornate rock",dessert,141.84,128.39,true
-3,415,"Tamandua, southern",appetizer,133.16,14.63,false
-4,474,Richardson's ground squirrel,main course,39.6,253.33,true
-5,77,"Buffalo, african",main course,68.67,1466.51,false
-6,447,European beaver,appetizer,72.54,598.0,false
-7,325,Greylag goose,dessert,184.98,16.48,false
-8,406,"Penguin, little blue",main course,174.47,428.88,true
-9,46,"Eagle, golden",main course,14.49,917.98,true
-10,151,"Lion, african",appetizer,36.28,1443.76,true
-11,175,Black curlew,dessert,193.51,945.95,true
-12,94,South American sea lion,appetizer,23.39,1313.06,true
-13,433,"Tortoise, burmese brown mountain",dessert,190.19,704.55,false
-14,231,Ocelot,dessert,113.95,770.79,false
-15,316,"Fox, arctic",main course,80.32,127.11,false
-16,26,African buffalo,dessert,86.68,1005.79,false
-17,439,Black-throated cardinal,dessert,90.85,304.43,false
-18,470,"Lion, southern sea",appetizer,106.07,1458.69,false
-19,381,"Shrew, mandras tree",dessert,20.72,1227.86,true
-20,187,Bushbuck,main course,106.68,1076.21,true
-21,43,Black-backed jackal,main course,67.69,274.72,true
-22,489,"Wallaby, euro",main course,2.94,838.02,false
-23,107,"Gull, swallow-tail",dessert,34.2,516.36,true
-24,319,"Starling, cape",dessert,2.47,995.26,false
-25,32,Indian peacock,appetizer,40.42,499.31,false
-26,218,"Fox, blue",dessert,85.71,967.07,true
-27,452,"Stork, saddle-billed",main course,61.84,1375.53,false
-28,172,Cape cobra,dessert,68.3,1091.94,false
-29,133,"Heron, yellow-crowned night",dessert,139.23,206.45,true
-30,123,Red brocket,dessert,143.37,121.47,true
-31,102,Black bear,dessert,101.6,1338.41,false
-32,469,Bleeding heart monkey,main course,40.97,548.37,true
-33,165,Miner's cat,appetizer,80.66,53.08,true
-34,303,"White-eye, cape",appetizer,105.9,962.08,false
-35,479,"Peacock, indian",dessert,38.24,591.99,false
-36,400,"Shark, blue",appetizer,179.52,1382.7,true
-37,257,Lily trotter,dessert,64.94,1128.69,false
-38,23,Yellow baboon,dessert,46.62,712.3,true
-39,433,Gemsbok,appetizer,156.89,524.56,false
-40,296,Eastern cottontail rabbit,main course,11.65,231.18,false
-41,394,"Bee-eater, nubian",appetizer,134.17,62.05,true
-42,142,Hottentot teal,appetizer,3.61,120.61,false
-43,462,"Fox, asian red",main course,59.0,1464.1,true
-44,12,Red-headed woodpecker,dessert,105.58,191.59,true
-45,401,Adouri (unidentified),main course,144.38,1170.28,true
-46,447,Yellow baboon,dessert,64.02,885.74,false
-47,375,Golden brush-tailed possum,dessert,74.66,828.49,false
-48,11,Little brown bat,appetizer,47.38,1369.05,true
-49,413,Bush dog,main course,146.79,277.35,true
-50,219,Dingo,appetizer,6.64,17.55,false
-51,268,"Hornbill, southern ground",main course,46.73,636.72,false
-52,161,Black-winged stilt,main course,25.0,1257.85,false
-53,148,"Gazelle, grant's",dessert,163.32,1387.5,false
-54,120,"Pintail, bahama",dessert,132.96,377.09,true
-55,157,"Screamer, crested",dessert,161.96,951.99,false
-56,40,"Screamer, southern",appetizer,165.67,296.24,false
-57,444,Civet (unidentified),dessert,69.88,1072.87,false
-58,223,"Finch, common melba",appetizer,107.43,1240.53,true
-59,293,"Flamingo, greater",dessert,187.26,848.7,false
-60,215,Python (unidentified),appetizer,198.85,1136.26,true
-61,140,Horned puffin,appetizer,156.16,103.2,true
-62,145,"Armadillo, seven-banded",appetizer,76.39,1358.78,false
-63,2,"Heron, little",dessert,88.74,867.4,true
-64,393,Sloth bear,main course,177.8,932.35,false
-65,333,"Pheasant, common",appetizer,105.53,743.12,true
-66,368,"Boar, wild",appetizer,114.85,594.37,false
-67,98,Common shelduck,main course,71.27,1306.39,false
-68,51,Red sheep,dessert,22.91,195.45,true
-69,149,Nine-banded armadillo,main course,92.42,214.38,false
-70,312,"Mouse, four-striped grass",main course,167.63,1374.45,false
-71,295,Ring-necked pheasant,dessert,72.33,516.05,true
-72,259,European stork,appetizer,59.36,1001.66,true
-73,360,"Sheep, red",main course,149.32,528.65,false
-74,27,Coqui partridge,dessert,35.3,435.78,false
-75,58,"Devil, tasmanian",appetizer,19.68,345.73,true
-76,356,Carpet snake,main course,132.69,1160.09,true
-77,41,Cereopsis goose,appetizer,55.57,81.96,false
-78,443,Cereopsis goose,appetizer,114.32,1255.76,false
-79,328,"Lion, galapagos sea",main course,13.53,221.77,true
-80,173,Sea birds (unidentified),dessert,172.21,773.5,false
-81,257,"Possum, golden brush-tailed",appetizer,88.17,669.81,true
-82,483,Swamp deer,main course,185.8,1068.58,true
-83,349,"Baboon, olive",main course,60.21,461.52,true
-84,319,Common genet,appetizer,27.1,904.64,true
-85,290,"Deer, savannah",appetizer,3.34,778.39,false
-86,5,"Starling, greater blue-eared",dessert,191.47,1402.67,true
-87,237,"Iguana, marine",main course,10.73,98.78,false
-88,448,"Egret, great",main course,147.52,1482.92,false
-89,103,"Deer, red",main course,176.9,1465.87,false
-90,403,Sugar glider,dessert,150.15,1269.04,true
-91,219,"Quoll, spotted-tailed",main course,123.11,130.65,true
-92,424,Wattled crane,appetizer,178.26,352.96,true
-93,228,Puma,dessert,13.54,833.35,true
-94,483,"Dolphin, striped",appetizer,17.44,1187.79,false
-95,495,Margay,appetizer,143.35,1477.06,true
-96,189,"Partridge, coqui",appetizer,66.62,1439.01,true
-97,95,"Spoonbill, white",main course,70.44,1186.15,false
-98,237,"Fox, cape",dessert,69.03,8.14,true
-99,205,Grant's gazelle,appetizer,66.42,473.33,true
-100,413,Savannah deer,main course,41.62,1412.51,true
-101,199,"Goose, andean",main course,128.23,139.07,false
-102,239,Caribou,dessert,151.92,1439.46,true
-103,347,"Cat, miner's",main course,108.09,1239.38,false
-104,32,"Kangaroo, eastern grey",main course,86.99,310.04,false
-105,41,Sulfur-crested cockatoo,appetizer,111.25,390.63,false
-106,174,Collared lizard,appetizer,124.11,219.24,false
-107,139,Mountain duck,appetizer,52.65,331.82,true
-108,194,"Possum, golden brush-tailed",appetizer,180.16,285.0,false
-109,13,Ringtail,main course,9.28,1108.95,false
-110,120,"Stork, painted",main course,168.51,1327.18,true
-111,45,Neotropic cormorant,dessert,123.11,233.3,true
-112,342,Savanna baboon,appetizer,42.21,965.46,false
-113,357,Grison,appetizer,108.32,44.31,false
-114,252,Barking gecko,main course,7.88,1144.49,false
-115,211,Three-banded plover,main course,151.28,58.18,false
-116,397,Common dolphin,appetizer,158.73,438.46,false
-117,128,Mountain goat,main course,161.36,1016.6,false
-118,102,Red hartebeest,dessert,41.12,610.46,false
-119,39,Eastern cottontail rabbit,appetizer,67.65,837.15,true
-120,17,Red-necked wallaby,appetizer,107.54,125.85,true
-121,490,African bush squirrel,appetizer,145.4,774.1,false
-122,382,House crow,main course,51.96,1133.48,true
-123,301,"Crane, stanley",dessert,103.61,358.47,false
-124,446,"Langur, hanuman",main course,14.84,645.08,true
-125,31,Malagasy ground boa,appetizer,181.33,71.39,true
-126,500,Sarus crane,dessert,108.48,721.37,false
-127,406,"Openbill, asian",dessert,126.94,1179.99,false
-128,6,Spectacled caiman,dessert,107.44,439.78,true
-129,96,Eastern indigo snake,main course,187.67,585.14,true
-130,351,Asiatic wild ass,main course,43.93,1393.92,true
-131,12,Collared lemming,dessert,116.18,1377.77,false
-132,367,Baleen whale,main course,38.73,948.36,true
-133,412,"Caracara, yellow-headed",dessert,77.55,846.83,true
-134,206,Buttermilk snake,main course,105.17,985.99,true
-135,342,Puku,appetizer,21.17,623.76,false
-136,332,Gambel's quail,main course,136.84,996.95,false
-137,498,Pied cormorant,appetizer,73.76,360.77,false
-138,375,Rainbow lory,dessert,23.52,1085.25,true
-139,304,Gerenuk,appetizer,82.01,1153.49,false
-140,493,Seven-banded armadillo,main course,16.72,205.96,false
-141,444,Palm squirrel,dessert,132.67,1266.92,false
-142,89,"Rhea, common",dessert,170.91,217.13,false
-143,73,"Ass, asiatic wild",dessert,162.89,616.13,true
-144,242,"Ringtail, common",dessert,157.57,945.74,true
-145,306,"Vulture, griffon",dessert,68.01,894.36,false
-146,329,Brush-tailed phascogale,main course,156.1,371.22,true
-147,384,"Starfish, crown of thorns",dessert,63.87,202.44,false
-148,310,"Booby, masked",main course,110.46,1308.19,true
-149,117,"Iguana, land",dessert,139.25,567.91,false
-150,378,"Sloth, pale-throated three-toed",dessert,170.98,896.67,false
-151,180,Barking gecko,dessert,39.34,347.64,true
-152,195,Harbor seal,dessert,59.45,860.83,false
-153,120,Southern black-backed gull,dessert,127.12,558.43,false
-154,7,"Constrictor, eastern boa",appetizer,92.01,677.26,true
-155,267,"Dog, raccoon",dessert,117.75,1479.56,false
-156,70,Pocket gopher (unidentified),appetizer,167.53,204.46,false
-157,323,Hawk-headed parrot,main course,177.91,119.84,false
-158,330,"Brocket, red",dessert,58.15,1060.94,false
-159,246,African wild dog,appetizer,94.32,1330.38,false
-160,468,Wild water buffalo,dessert,61.13,196.54,false
-161,149,"Zebra, common",dessert,113.27,435.2,true
-162,411,"Capuchin, white-fronted",main course,26.42,443.91,true
-163,392,"Otter, giant",appetizer,32.94,1014.18,false
-164,303,Argalis,appetizer,161.1,755.27,true
-165,480,Long-billed corella,main course,99.91,1488.54,true
-166,89,"Nutcracker, clark's",dessert,107.61,1360.35,false
-167,374,Common raccoon,dessert,132.02,1124.37,true
-168,265,Common green iguana,main course,57.21,275.34,true
-169,103,"Sheep, stone",main course,150.15,602.55,true
-170,394,"Monster, gila",appetizer,40.2,1382.06,true
-171,246,Cook's tree boa,dessert,66.11,535.13,true
-172,102,"Tortoise, asian foreset",appetizer,67.37,1225.58,true
-173,342,"Skua, long-tailed",dessert,36.25,1493.86,true
-174,442,Malleefowl,dessert,84.36,56.34,true
-175,278,"Deer, barasingha",appetizer,189.44,1134.7,false
-176,419,"Otter, cape clawless",dessert,62.0,434.57,true
-177,28,"Gull, swallow-tail",dessert,32.19,564.82,true
-178,103,"Penguin, fairy",main course,160.46,134.63,true
-179,379,"Beaver, european",dessert,64.2,443.93,true
-180,10,"Kookaburra, laughing",dessert,106.64,1466.47,true
-181,57,"Stilt, black-winged",main course,164.28,810.99,false
-182,157,Carpet snake,main course,139.09,17.13,true
-183,63,Onager,main course,184.98,591.34,false
-184,194,"Raccoon, common",appetizer,120.61,61.18,false
-185,380,Javan gold-spotted mongoose,dessert,3.86,925.54,true
-186,72,Great cormorant,dessert,20.09,1193.1,true
-187,200,European beaver,dessert,29.86,1490.92,true
-188,289,"Macaque, pig-tailed",main course,126.34,1193.15,false
-189,112,"Otter, brazilian",main course,169.87,1047.65,false
-190,79,Hawk-headed parrot,appetizer,70.99,709.71,true
-191,128,"Bee-eater, carmine",dessert,162.69,59.99,false
-192,233,Red lava crab,appetizer,171.35,1328.53,true
-193,205,Harbor seal,dessert,80.81,132.53,false
-194,50,"Cat, jungle",main course,42.48,1428.41,false
-195,303,Cattle egret,main course,28.92,1388.5,true
-196,358,"Racer, blue",main course,198.65,539.61,false
-197,20,Cattle egret,main course,81.4,901.19,true
-198,125,Galapagos tortoise,dessert,196.87,1390.2,true
-199,165,"Iguana, common green",appetizer,112.81,103.95,false
-200,54,North American porcupine,main course,76.16,1335.24,true
-201,220,Brown lemur,appetizer,143.52,1306.12,true
-202,469,"Lapwing, southern",appetizer,69.74,1011.19,true
-203,287,"Stork, jabiru",main course,162.35,1039.19,true
-204,152,"Gull, southern black-backed",appetizer,71.61,865.45,true
-205,377,"Python, carpet",appetizer,194.86,656.94,true
-206,153,"Blackbird, red-winged",main course,64.55,1196.71,false
-207,284,Southern sea lion,dessert,86.37,18.54,true
-208,273,"Boa, columbian rainbow",main course,85.02,628.54,false
-209,436,Black-faced kangaroo,main course,93.79,429.89,true
-210,64,"Buffalo, american",main course,181.4,734.2,false
-211,190,"Buffalo, asian water",main course,77.11,635.72,false
-212,158,American badger,appetizer,18.28,571.65,false
-213,68,White-faced tree rat,dessert,19.93,1274.45,false
-214,464,"Stork, painted",dessert,179.1,1126.01,false
-215,438,Gaur,appetizer,28.43,385.71,true
-216,62,Frilled dragon,dessert,162.59,1416.27,false
-217,302,"Anteater, giant",main course,146.48,1318.24,true
-218,178,"Vulture, turkey",appetizer,105.98,1045.95,false
-219,248,Magnificent frigate bird,dessert,104.93,415.87,false
-220,111,"Bat, madagascar fruit",appetizer,152.51,1100.02,true
-221,193,Tiger cat,dessert,142.94,125.56,false
-222,194,"Turaco, violet-crested",dessert,74.13,1181.16,false
-223,41,"Hare, arctic",dessert,179.59,286.31,true
-224,193,"Woodpecker, red-headed",appetizer,50.78,1212.57,true
-225,100,"Goldeneye, common",main course,73.23,1497.81,false
-226,24,Western pygmy possum,appetizer,163.61,1305.33,true
-227,109,"Hyena, brown",main course,133.21,309.92,true
-228,229,Striped dolphin,dessert,5.43,1359.21,true
-229,205,Large cormorant,dessert,150.64,961.77,true
-230,234,Indian red admiral,main course,82.8,42.31,true
-231,477,White-winged dove,main course,51.6,802.84,false
-232,65,"Stork, openbill",appetizer,180.76,1209.59,false
-233,227,"Dog, african wild",appetizer,181.9,1423.88,true
-234,366,Black-winged stilt,dessert,113.9,1012.01,false
-235,352,Coke's hartebeest,appetizer,116.52,1181.6,true
-236,116,"Sloth, pale-throated three-toed",main course,34.9,1351.03,true
-237,478,Green-winged macaw,dessert,178.58,533.42,false
-238,404,"Snake, carpet",main course,54.26,474.11,false
-239,357,"Bulbul, black-fronted",dessert,14.37,852.78,false
-240,304,"Albatross, galapagos",appetizer,154.93,402.01,true
-241,298,Mexican beaded lizard,dessert,32.78,397.53,false
-242,82,Carpet snake,dessert,22.04,806.51,true
-243,165,South American puma,main course,110.94,263.47,true
-244,494,"Sungazer, yellow-brown",appetizer,57.24,1267.19,true
-245,240,Ring-tailed lemur,main course,145.35,1095.04,false
-246,410,"Bear, sloth",dessert,85.02,43.74,false
-247,274,Malagasy ground boa,appetizer,184.85,1070.26,false
-248,487,Mallard,main course,193.16,324.54,false
-249,210,Red-billed buffalo weaver,main course,41.13,1410.68,true
-250,446,Blue wildebeest,appetizer,62.42,399.23,true
-251,378,Eurasian badger,appetizer,46.61,617.45,false
-252,366,"Rat, white-faced tree",main course,120.03,795.42,true
-253,227,"Heron, green-backed",main course,168.77,8.07,false
-254,290,"Raccoon, common",appetizer,20.76,905.59,true
-255,443,"Stork, jabiru",appetizer,108.09,1338.77,false
-256,245,African jacana,main course,76.94,838.7,true
-257,244,"Mongoose, small indian",dessert,102.47,535.18,true
-258,45,"Possum, common brushtail",main course,110.3,146.88,false
-259,64,"Stork, marabou",appetizer,28.71,676.05,true
-260,247,"Bird, black-throated butcher",appetizer,175.81,138.73,true
-261,235,"Cliffchat, mocking",appetizer,47.92,671.06,true
-262,134,"Crane, wattled",appetizer,134.32,1029.37,false
-263,162,Black-cheeked waxbill,appetizer,50.23,595.15,false
-264,441,"Pigeon, wood",main course,135.27,269.21,false
-265,330,"Jackal, silver-backed",main course,33.77,1420.2,true
-266,23,"Seal, northern fur",appetizer,145.12,605.61,true
-267,117,White-throated toucan,dessert,184.63,946.17,true
-268,235,Red-billed tropic bird,main course,79.7,858.86,false
-269,280,Eastern indigo snake,appetizer,18.78,1455.93,false
-270,279,"Dove, ring",dessert,8.48,1392.44,false
-271,346,Common long-nosed armadillo,appetizer,140.81,320.36,false
-272,152,Black swan,dessert,175.8,827.5,true
-273,291,"Otter, oriental short-clawed",dessert,34.61,1427.23,true
-274,106,"Dragon, netted rock",dessert,72.86,993.09,false
-275,386,Jungle cat,appetizer,152.7,266.37,false
-276,201,Beisa oryx,appetizer,56.89,538.26,true
-277,216,Black-backed jackal,appetizer,94.96,1114.32,true
-278,422,"Rat, arboral spiny",dessert,165.69,617.99,false
-279,473,Asian water dragon,main course,98.47,1095.26,true
-280,172,Olive baboon,dessert,88.21,523.62,true
-281,351,Reindeer,main course,45.73,613.58,true
-282,210,"Vulture, king",main course,147.23,1404.99,false
-283,58,Euro wallaby,appetizer,162.6,707.74,true
-284,422,Springbuck,appetizer,139.83,822.93,false
-285,454,Gerbil (unidentified),main course,10.7,185.2,false
-286,488,Wolf spider,dessert,152.46,919.13,false
-287,454,"Stork, woolly-necked",appetizer,168.81,1466.88,false
-288,21,"Kiskadee, great",main course,20.51,797.55,true
-289,302,"Snake, carpet",appetizer,98.44,762.21,true
-290,305,Burchell's gonolek,main course,19.79,1460.28,true
-291,120,"Monkey, red howler",main course,158.6,542.38,true
-292,258,"Wombat, southern hairy-nosed",appetizer,194.55,1339.88,false
-293,299,African polecat,dessert,108.35,1478.87,true
-294,289,Common melba finch,appetizer,188.44,595.46,false
-295,193,Black-capped chickadee,appetizer,195.06,168.9,true
-296,172,Wood pigeon,dessert,80.26,382.05,false
-297,213,"Dragon, western bearded",main course,166.23,615.77,false
-298,13,Dusky gull,appetizer,58.48,1096.08,true
-299,101,"Snake, tiger",dessert,15.4,38.09,true
-300,386,Azara's zorro,main course,65.67,159.61,false
-301,152,Golden eagle,appetizer,148.45,1426.13,false
-302,95,"Coatimundi, ring-tailed",dessert,194.55,628.73,true
-303,203,Springbok,appetizer,7.87,221.22,true
-304,9,King cormorant,dessert,14.38,1405.17,true
-305,392,"Rhinoceros, white",appetizer,106.97,64.15,false
-306,304,Golden brush-tailed possum,main course,145.27,1428.38,false
-307,409,Egyptian cobra,main course,5.93,1379.79,false
-308,312,Laughing dove,main course,193.88,854.7,false
-309,87,"Ibis, glossy",appetizer,69.72,139.72,true
-310,277,Horned rattlesnake,dessert,117.59,1019.1,true
-311,189,Pocket gopher (unidentified),appetizer,100.05,1175.2,true
-312,428,Savannah deer,dessert,116.78,699.99,true
-313,299,Blesbok,dessert,69.64,37.54,true
-314,432,"Camel, dromedary",dessert,47.75,430.93,false
-315,40,"Eagle, pallas's fish",appetizer,48.86,1385.83,true
-316,75,"Whale, long-finned pilot",dessert,55.97,1410.36,true
-317,286,"Deer, black-tailed",appetizer,96.74,250.87,false
-318,54,"Hen, sage",dessert,179.94,1152.11,true
-319,235,"Dolphin, bottle-nose",dessert,39.19,55.72,true
-320,410,Brown brocket,appetizer,138.31,1304.88,true
-321,59,"Bettong, brush-tailed",appetizer,103.3,1351.23,false
-322,139,"Tern, white-winged black",dessert,25.78,35.43,true
-323,347,Eastern dwarf mongoose,appetizer,18.69,964.06,true
-324,302,Grizzly bear,appetizer,176.08,1459.13,false
-325,221,Lilac-breasted roller,appetizer,65.57,1327.25,false
-326,482,"Rhinoceros, square-lipped",dessert,193.91,274.05,false
-327,199,"Dolphin, striped",appetizer,85.67,997.51,false
-328,216,"Dolphin, bottle-nose",main course,169.8,773.49,true
-329,314,Kongoni,main course,85.13,585.3,false
-330,266,American woodcock,main course,150.72,467.26,false
-331,328,"Rattlesnake, dusky",appetizer,12.57,937.11,true
-332,57,"Openbill, asian",main course,26.28,459.8,true
-333,332,"Fox, bat-eared",dessert,31.02,554.7,true
-334,273,"Tortoise, burmese black mountain",dessert,80.44,109.34,true
-335,126,Brazilian otter,appetizer,123.6,114.86,false
-336,340,Tiger,appetizer,45.57,690.18,false
-337,283,"Vulture, king",dessert,65.9,27.85,false
-338,175,"Pheasant, ring-necked",main course,133.32,901.41,false
-339,318,"Snake, buttermilk",dessert,92.77,675.71,true
-340,437,American marten,dessert,83.14,616.71,true
-341,52,"Fox, arctic",dessert,185.95,3.11,false
-342,264,"Bustard, stanley",dessert,191.56,685.65,false
-343,253,Giant armadillo,dessert,118.85,219.81,true
-344,244,Great cormorant,appetizer,18.31,672.06,true
-345,474,White-winged tern,dessert,132.45,1493.11,false
-346,23,"Crocodile, nile",dessert,163.46,350.5,true
-347,259,Woodchuck,dessert,28.36,749.73,false
-348,170,"Rhinoceros, white",appetizer,65.7,527.91,true
-349,459,Woodchuck,appetizer,18.08,79.15,true
-350,47,"Squirrel, european red",main course,136.84,85.7,false
-351,240,Giant heron,appetizer,188.98,281.02,true
-352,173,"Chipmunk, least",appetizer,36.94,892.67,false
-353,147,"Cobra, egyptian",dessert,82.94,914.1,true
-354,109,Cape wild cat,appetizer,180.99,1257.86,false
-355,295,"Turkey, australian brush",dessert,179.47,840.72,true
-356,90,Verreaux's sifaka,main course,41.5,893.06,false
-357,390,"Shark, blue",appetizer,68.88,86.95,true
-358,138,Jaguarundi,main course,123.48,1235.4,true
-359,181,African ground squirrel (unidentified),main course,168.64,960.21,true
-360,64,"Heron, goliath",appetizer,167.68,663.35,false
-361,213,Four-striped grass mouse,main course,187.1,1227.47,true
-362,142,Superb starling,main course,122.26,1129.37,false
-363,365,Bat-eared fox,main course,50.35,294.35,false
-364,402,Hottentot teal,appetizer,170.27,814.44,true
-365,348,"Fox, bat-eared",dessert,170.51,961.54,false
-366,370,"Opossum, american virginia",main course,102.73,963.7,true
-367,429,"Fox, north american red",dessert,24.64,907.17,true
-368,318,Purple moorhen,appetizer,115.41,876.59,false
-369,82,"Crane, wattled",appetizer,158.62,1126.55,true
-370,199,Numbat,dessert,117.83,342.39,true
-371,113,"Dog, bush",main course,69.62,806.61,true
-372,122,"Fox, arctic",dessert,33.38,77.49,false
-373,86,"Lemur, grey mouse",dessert,3.14,40.17,true
-374,43,Green-winged trumpeter,dessert,145.84,1034.88,false
-375,1,Weeper capuchin,dessert,112.5,312.55,false
-376,340,Marine iguana,appetizer,151.44,207.95,false
-377,396,Red-tailed cockatoo,dessert,3.25,1015.19,true
-378,275,Bohor reedbuck,main course,193.28,242.12,false
-379,226,"Meerkat, red",main course,91.44,470.4,false
-380,349,"Bison, american",dessert,3.64,1180.01,false
-381,61,Asian red fox,main course,52.31,888.68,false
-382,492,"Wolf, common",main course,70.0,1150.93,true
-383,332,"Gorilla, western lowland",main course,49.89,1495.15,true
-384,85,Glossy ibis,dessert,30.54,157.26,true
-385,109,Snake-necked turtle,dessert,124.0,404.76,true
-386,460,"Seal, northern elephant",main course,120.69,1109.64,false
-387,181,Common dolphin,appetizer,27.43,1374.18,false
-388,240,Arctic tern,main course,124.33,937.52,true
-389,172,"Dragon, komodo",main course,172.8,744.13,false
-390,239,Red hartebeest,dessert,116.17,216.12,false
-391,130,"Cliffchat, mocking",main course,183.16,540.07,false
-392,214,"Blackbird, red-winged",dessert,176.54,178.06,true
-393,223,Collared lemming,appetizer,135.54,1165.63,true
-394,453,Woodrat (unidentified),main course,87.18,1049.12,true
-395,327,Red-billed buffalo weaver,main course,162.51,1168.99,true
-396,68,Dabchick,main course,76.37,719.43,true
-397,384,Galapagos sea lion,main course,118.06,1326.66,false
-398,333,"Drongo, fork-tailed",main course,65.01,1094.23,true
-399,90,Eastern dwarf mongoose,main course,41.12,339.86,false
-400,155,Vervet monkey,main course,27.35,349.7,false
-401,220,Springbok,dessert,88.62,1361.48,true
-402,163,"Wallaby, bennett's",dessert,117.95,230.8,true
-403,159,Chuckwalla,dessert,191.58,1382.21,false
-404,242,Woodchuck,dessert,132.13,697.93,false
-405,438,Python (unidentified),dessert,169.05,2.05,false
-406,193,"Boa, malagasy ground",dessert,5.92,748.86,false
-407,368,"Eagle, bateleur",appetizer,43.44,996.97,false
-408,182,"Wombat, southern hairy-nosed",dessert,140.76,67.88,false
-409,307,Leadbeateri's ground hornbill,appetizer,134.13,266.24,true
-410,219,"Squirrel, red",dessert,158.84,336.76,false
-411,182,African buffalo,dessert,76.03,383.62,true
-412,404,"Grouse, sage",main course,7.11,114.32,true
-413,268,"Skua, long-tailed",main course,15.6,249.49,false
-414,470,"Stork, european",dessert,176.45,378.14,false
-415,118,Purple moorhen,appetizer,57.71,850.76,false
-416,170,House sparrow,dessert,148.36,685.36,true
-417,123,"Penguin, fairy",main course,114.19,245.89,false
-418,317,Greater kudu,main course,89.54,1463.19,true
-419,285,Small Indian mongoose,main course,65.05,579.12,true
-420,495,Kaffir cat,dessert,182.33,468.99,true
-421,83,Fork-tailed drongo,dessert,179.91,853.79,false
-422,162,"Wallaby, tammar",dessert,22.38,1300.58,false
-423,260,"Toucan, white-throated",main course,71.26,1262.13,true
-424,410,Arctic tern,main course,140.59,414.91,false
-425,102,Uinta ground squirrel,appetizer,159.35,751.27,true
-426,395,"Pheasant, ring-necked",dessert,71.52,131.48,true
-427,496,Snowy sheathbill,dessert,14.41,746.22,false
-428,140,"Roadrunner, greater",appetizer,60.96,1354.26,false
-429,332,Roe deer,main course,132.13,1181.92,false
-430,177,African jacana,main course,83.99,363.23,false
-431,78,Southern white-crowned shrike,dessert,111.11,410.12,true
-432,73,"Lemur, sportive",main course,168.95,145.23,false
-433,240,"Mongoose, eastern dwarf",main course,149.12,130.36,true
-434,11,"Marten, american",dessert,47.16,496.31,false
-435,421,Dama wallaby,dessert,98.76,776.59,false
-436,216,Common genet,appetizer,183.09,1060.0,true
-437,248,"Swan, trumpeter",appetizer,93.31,1408.82,true
-438,188,"Shark, blue",appetizer,163.7,637.23,true
-439,464,Tailless tenrec,dessert,12.48,322.86,true
-440,15,"Trumpeter, green-winged",main course,92.98,617.73,false
-441,115,Worm snake (unidentified),appetizer,114.66,1077.53,true
-442,145,"Bustard, denham's",appetizer,182.62,1320.45,true
-443,131,Wild water buffalo,appetizer,147.87,980.73,false
-444,179,"Goose, greylag",dessert,12.11,1121.42,true
-445,92,European badger,appetizer,70.53,575.1,false
-446,184,"Phalarope, red-necked",dessert,23.22,1051.16,true
-447,338,"Cliffchat, mocking",dessert,80.24,1320.84,false
-448,365,"Gull, swallow-tail",main course,87.57,549.72,false
-449,372,"Sparrow, rufous-collared",dessert,75.68,1129.63,true
-450,208,South American meadowlark (unidentified),dessert,26.9,429.85,true
-451,449,"Bleu, blue-breasted cordon",appetizer,31.09,153.89,true
-452,324,Black-winged stilt,main course,189.95,1436.59,true
-453,153,Gambel's quail,main course,22.06,81.1,true
-454,362,"Egret, snowy",appetizer,28.94,1266.87,true
-455,317,"Capuchin, weeper",dessert,117.16,872.19,false
-456,423,Sandhill crane,dessert,35.95,956.34,true
-457,348,"Tenrec, tailless",main course,190.88,223.13,false
-458,338,"Zebra, common",main course,59.5,972.32,false
-459,376,Desert tortoise,appetizer,28.99,577.81,true
-460,352,Trumpeter swan,main course,35.55,749.37,true
-461,349,"Pintail, bahama",appetizer,83.38,974.12,false
-462,205,"Hyena, brown",appetizer,33.86,356.49,false
-463,221,"Wolf, timber",main course,167.31,1240.43,false
-464,80,South African hedgehog,appetizer,124.22,302.08,true
-465,237,"Godwit, hudsonian",appetizer,37.02,766.77,false
-466,484,"Beaver, american",dessert,155.21,122.75,false
-467,459,"Gull, southern black-backed",appetizer,33.28,592.9,true
-468,39,"Meerkat, red",dessert,62.63,69.97,false
-469,200,"Jackrabbit, white-tailed",dessert,176.58,492.82,false
-470,308,Northern elephant seal,dessert,1.23,1250.83,false
-471,45,Blue duck,main course,67.9,642.44,true
-472,465,Burmese black mountain tortoise,main course,80.95,987.65,false
-473,190,Red-billed tropic bird,main course,104.63,292.05,true
-474,464,Gulls (unidentified),main course,140.98,1224.85,true
-475,494,"Squirrel, eastern fox",appetizer,189.24,5.21,true
-476,165,"Chickadee, black-capped",dessert,99.64,982.52,true
-477,259,"Stork, painted",dessert,62.87,1406.19,true
-478,465,"Langur, common",main course,26.21,701.55,true
-479,15,"Phalarope, red",appetizer,75.87,986.77,false
-480,87,Capybara,main course,59.05,310.43,false
-481,169,"Tapir, brazilian",dessert,120.16,1059.06,true
-482,251,Timber wolf,dessert,15.72,287.49,false
-483,304,"Crab, red lava",appetizer,197.3,1026.65,false
-484,444,Hanuman langur,appetizer,145.88,177.42,true
-485,78,Bonnet macaque,appetizer,168.02,701.27,true
-486,179,"Salmon, sockeye",appetizer,134.43,1362.26,false
-487,103,Turtle (unidentified),appetizer,121.24,101.41,false
-488,132,"Grouse, greater sage",appetizer,157.04,169.33,false
-489,239,"Bushbaby, large-eared",dessert,155.71,367.91,true
-490,140,"Crane, stanley",dessert,175.11,928.41,false
-491,291,Thirteen-lined squirrel,dessert,158.18,1172.54,false
-492,362,Little brown bat,main course,91.1,421.31,false
-493,99,"Glider, sugar",main course,126.13,594.13,false
-494,366,Arctic tern,appetizer,10.55,566.65,false
-495,240,Two-banded monitor,dessert,4.37,198.16,true
-496,287,"Dog, black-tailed prairie",main course,55.46,1488.78,true
-497,376,"Vulture, bengal",appetizer,13.96,1066.13,false
-498,160,Eurasian badger,dessert,78.32,1079.51,true
-499,296,Kaffir cat,dessert,95.57,595.75,false
-500,407,"Turtle, eastern box",appetizer,3.73,73.86,true
+1,284,Giant girdled lizard,dessert,40.29,726.42,t
+2,132,"Dragon, ornate rock",dessert,141.84,128.39,t
+3,415,"Tamandua, southern",appetizer,133.16,14.63,f
+4,474,Richardson's ground squirrel,main course,39.60,253.33,t
+5,77,"Buffalo, african",main course,68.67,1466.51,f
+6,447,European beaver,appetizer,72.54,598.0,f
+7,325,Greylag goose,dessert,184.98,16.48,f
+8,406,"Penguin, little blue",main course,174.47,428.88,t
+9,46,"Eagle, golden",main course,14.49,917.98,t
+10,151,"Lion, african",appetizer,36.28,1443.76,t
+11,175,Black curlew,dessert,193.51,945.95,t
+12,94,South American sea lion,appetizer,23.39,1313.06,t
+13,433,"Tortoise, burmese brown mountain",dessert,190.19,704.55,f
+14,231,Ocelot,dessert,113.95,770.79,f
+15,316,"Fox, arctic",main course,80.32,127.11,f
+16,26,African buffalo,dessert,86.68,1005.79,f
+17,439,Black-throated cardinal,dessert,90.85,304.43,f
+18,470,"Lion, southern sea",appetizer,106.07,1458.69,f
+19,381,"Shrew, mandras tree",dessert,20.72,1227.86,t
+20,187,Bushbuck,main course,106.68,1076.21,t
+21,43,Black-backed jackal,main course,67.69,274.72,t
+22,489,"Wallaby, euro",main course,2.94,838.02,f
+23,107,"Gull, swallow-tail",dessert,34.20,516.36,t
+24,319,"Starling, cape",dessert,2.47,995.26,f
+25,32,Indian peacock,appetizer,40.42,499.31,f
+26,218,"Fox, blue",dessert,85.71,967.07,t
+27,452,"Stork, saddle-billed",main course,61.84,1375.53,f
+28,172,Cape cobra,dessert,68.30,1091.94,f
+29,133,"Heron, yellow-crowned night",dessert,139.23,206.45,t
+30,123,Red brocket,dessert,143.37,121.47,t
+31,102,Black bear,dessert,101.60,1338.41,f
+32,469,Bleeding heart monkey,main course,40.97,548.37,t
+33,165,Miner's cat,appetizer,80.66,53.08,t
+34,303,"White-eye, cape",appetizer,105.90,962.08,f
+35,479,"Peacock, indian",dessert,38.24,591.99,f
+36,400,"Shark, blue",appetizer,179.52,1382.7,t
+37,257,Lily trotter,dessert,64.94,1128.69,f
+38,23,Yellow baboon,dessert,46.62,712.3,t
+39,433,Gemsbok,appetizer,156.89,524.56,f
+40,296,Eastern cottontail rabbit,main course,11.65,231.18,f
+41,394,"Bee-eater, nubian",appetizer,134.17,62.05,t
+42,142,Hottentot teal,appetizer,3.61,120.61,f
+43,462,"Fox, asian red",main course,59.00,1464.1,t
+44,12,Red-headed woodpecker,dessert,105.58,191.59,t
+45,401,Adouri (unidentified),main course,144.38,1170.28,t
+46,447,Yellow baboon,dessert,64.02,885.74,f
+47,375,Golden brush-tailed possum,dessert,74.66,828.49,f
+48,11,Little brown bat,appetizer,47.38,1369.05,t
+49,413,Bush dog,main course,146.79,277.35,t
+50,219,Dingo,appetizer,6.64,17.55,f
+51,268,"Hornbill, southern ground",main course,46.73,636.72,f
+52,161,Black-winged stilt,main course,25.00,1257.85,f
+53,148,"Gazelle, grant''s",dessert,163.32,1387.5,f
+54,120,"Pintail, bahama",dessert,132.96,377.09,t
+55,157,"Screamer, crested",dessert,161.96,951.99,f
+56,40,"Screamer, southern",appetizer,165.67,296.24,f
+57,444,Civet (unidentified),dessert,69.88,1072.87,f
+58,223,"Finch, common melba",appetizer,107.43,1240.53,t
+59,293,"Flamingo, greater",dessert,187.26,848.7,f
+60,215,Python (unidentified),appetizer,198.85,1136.26,t
+61,140,Horned puffin,appetizer,156.16,103.2,t
+62,145,"Armadillo, seven-banded",appetizer,76.39,1358.78,f
+63,2,"Heron, little",dessert,88.74,867.4,t
+64,393,Sloth bear,main course,177.80,932.35,f
+65,333,"Pheasant, common",appetizer,105.53,743.12,t
+66,368,"Boar, wild",appetizer,114.85,594.37,f
+67,98,Common shelduck,main course,71.27,1306.39,f
+68,51,Red sheep,dessert,22.91,195.45,t
+69,149,Nine-banded armadillo,main course,92.42,214.38,f
+70,312,"Mouse, four-striped grass",main course,167.63,1374.45,f
+71,295,Ring-necked pheasant,dessert,72.33,516.05,t
+72,259,European stork,appetizer,59.36,1001.66,t
+73,360,"Sheep, red",main course,149.32,528.65,f
+74,27,Coqui partridge,dessert,35.30,435.78,f
+75,58,"Devil, tasmanian",appetizer,19.68,345.73,t
+76,356,Carpet snake,main course,132.69,1160.09,t
+77,41,Cereopsis goose,appetizer,55.57,81.96,f
+78,443,Cereopsis goose,appetizer,114.32,1255.76,f
+79,328,"Lion, galapagos sea",main course,13.53,221.77,t
+80,173,Sea birds (unidentified),dessert,172.21,773.5,f
+81,257,"Possum, golden brush-tailed",appetizer,88.17,669.81,t
+82,483,Swamp deer,main course,185.80,1068.58,t
+83,349,"Baboon, olive",main course,60.21,461.52,t
+84,319,Common genet,appetizer,27.10,904.64,t
+85,290,"Deer, savannah",appetizer,3.34,778.39,f
+86,5,"Starling, greater blue-eared",dessert,191.47,1402.67,t
+87,237,"Iguana, marine",main course,10.73,98.78,f
+88,448,"Egret, great",main course,147.52,1482.92,f
+89,103,"Deer, red",main course,176.90,1465.87,f
+90,403,Sugar glider,dessert,150.15,1269.04,t
+91,219,"Quoll, spotted-tailed",main course,123.11,130.65,t
+92,424,Wattled crane,appetizer,178.26,352.96,t
+93,228,Puma,dessert,13.54,833.35,t
+94,483,"Dolphin, striped",appetizer,17.44,1187.79,f
+95,495,Margay,appetizer,143.35,1477.06,t
+96,189,"Partridge, coqui",appetizer,66.62,1439.01,t
+97,95,"Spoonbill, white",main course,70.44,1186.15,f
+98,237,"Fox, cape",dessert,69.03,8.14,t
+99,205,Grant's gazelle,appetizer,66.42,473.33,t
+100,413,Savannah deer,main course,41.62,1412.51,t
+101,199,"Goose, andean",main course,128.23,139.07,f
+102,239,Caribou,dessert,151.92,1439.46,t
+103,347,"Cat, miner''s",main course,108.09,1239.38,f
+104,32,"Kangaroo, eastern grey",main course,86.99,310.04,f
+105,41,Sulfur-crested cockatoo,appetizer,111.25,390.63,f
+106,174,Collared lizard,appetizer,124.11,219.24,f
+107,139,Mountain duck,appetizer,52.65,331.82,t
+108,194,"Possum, golden brush-tailed",appetizer,180.16,285.0,f
+109,13,Ringtail,main course,9.28,1108.95,f
+110,120,"Stork, painted",main course,168.51,1327.18,t
+111,45,Neotropic cormorant,dessert,123.11,233.3,t
+112,342,Savanna baboon,appetizer,42.21,965.46,f
+113,357,Grison,appetizer,108.32,44.31,f
+114,252,Barking gecko,main course,7.88,1144.49,f
+115,211,Three-banded plover,main course,151.28,58.18,f
+116,397,Common dolphin,appetizer,158.73,438.46,f
+117,128,Mountain goat,main course,161.36,1016.6,f
+118,102,Red hartebeest,dessert,41.12,610.46,f
+119,39,Eastern cottontail rabbit,appetizer,67.65,837.15,t
+120,17,Red-necked wallaby,appetizer,107.54,125.85,t
+121,490,African bush squirrel,appetizer,145.40,774.1,f
+122,382,House crow,main course,51.96,1133.48,t
+123,301,"Crane, stanley",dessert,103.61,358.47,f
+124,446,"Langur, hanuman",main course,14.84,645.08,t
+125,31,Malagasy ground boa,appetizer,181.33,71.39,t
+126,500,Sarus crane,dessert,108.48,721.37,f
+127,406,"Openbill, asian",dessert,126.94,1179.99,f
+128,6,Spectacled caiman,dessert,107.44,439.78,t
+129,96,Eastern indigo snake,main course,187.67,585.14,t
+130,351,Asiatic wild ass,main course,43.93,1393.92,t
+131,12,Collared lemming,dessert,116.18,1377.77,f
+132,367,Baleen whale,main course,38.73,948.36,t
+133,412,"Caracara, yellow-headed",dessert,77.55,846.83,t
+134,206,Buttermilk snake,main course,105.17,985.99,t
+135,342,Puku,appetizer,21.17,623.76,f
+136,332,Gambel's quail,main course,136.84,996.95,f
+137,498,Pied cormorant,appetizer,73.76,360.77,f
+138,375,Rainbow lory,dessert,23.52,1085.25,t
+139,304,Gerenuk,appetizer,82.01,1153.49,f
+140,493,Seven-banded armadillo,main course,16.72,205.96,f
+141,444,Palm squirrel,dessert,132.67,1266.92,f
+142,89,"Rhea, common",dessert,170.91,217.13,f
+143,73,"Ass, asiatic wild",dessert,162.89,616.13,t
+144,242,"Ringtail, common",dessert,157.57,945.74,t
+145,306,"Vulture, griffon",dessert,68.01,894.36,f
+146,329,Brush-tailed phascogale,main course,156.10,371.22,t
+147,384,"Starfish, crown of thorns",dessert,63.87,202.44,f
+148,310,"Booby, masked",main course,110.46,1308.19,t
+149,117,"Iguana, land",dessert,139.25,567.91,f
+150,378,"Sloth, pale-throated three-toed",dessert,170.98,896.67,f
+151,180,Barking gecko,dessert,39.34,347.64,t
+152,195,Harbor seal,dessert,59.45,860.83,f
+153,120,Southern black-backed gull,dessert,127.12,558.43,f
+154,7,"Constrictor, eastern boa",appetizer,92.01,677.26,t
+155,267,"Dog, raccoon",dessert,117.75,1479.56,f
+156,70,Pocket gopher (unidentified),appetizer,167.53,204.46,f
+157,323,Hawk-headed parrot,main course,177.91,119.84,f
+158,330,"Brocket, red",dessert,58.15,1060.94,f
+159,246,African wild dog,appetizer,94.32,1330.38,f
+160,468,Wild water buffalo,dessert,61.13,196.54,f
+161,149,"Zebra, common",dessert,113.27,435.2,t
+162,411,"Capuchin, white-fronted",main course,26.42,443.91,t
+163,392,"Otter, giant",appetizer,32.94,1014.18,f
+164,303,Argalis,appetizer,161.10,755.27,t
+165,480,Long-billed corella,main course,99.91,1488.54,t
+166,89,"Nutcracker, clark''s",dessert,107.61,1360.35,f
+167,374,Common raccoon,dessert,132.02,1124.37,t
+168,265,Common green iguana,main course,57.21,275.34,t
+169,103,"Sheep, stone",main course,150.15,602.55,t
+170,394,"Monster, gila",appetizer,40.20,1382.06,t
+171,246,Cook's tree boa,dessert,66.11,535.13,t
+172,102,"Tortoise, asian foreset",appetizer,67.37,1225.58,t
+173,342,"Skua, long-tailed",dessert,36.25,1493.86,t
+174,442,Malleefowl,dessert,84.36,56.34,t
+175,278,"Deer, barasingha",appetizer,189.44,1134.7,f
+176,419,"Otter, cape clawless",dessert,62.00,434.57,t
+177,28,"Gull, swallow-tail",dessert,32.19,564.82,t
+178,103,"Penguin, fairy",main course,160.46,134.63,t
+179,379,"Beaver, european",dessert,64.20,443.93,t
+180,10,"Kookaburra, laughing",dessert,106.64,1466.47,t
+181,57,"Stilt, black-winged",main course,164.28,810.99,f
+182,157,Carpet snake,main course,139.09,17.13,t
+183,63,Onager,main course,184.98,591.34,f
+184,194,"Raccoon, common",appetizer,120.61,61.18,f
+185,380,Javan gold-spotted mongoose,dessert,3.86,925.54,t
+186,72,Great cormorant,dessert,20.09,1193.1,t
+187,200,European beaver,dessert,29.86,1490.92,t
+188,289,"Macaque, pig-tailed",main course,126.34,1193.15,f
+189,112,"Otter, brazilian",main course,169.87,1047.65,f
+190,79,Hawk-headed parrot,appetizer,70.99,709.71,t
+191,128,"Bee-eater, carmine",dessert,162.69,59.99,f
+192,233,Red lava crab,appetizer,171.35,1328.53,t
+193,205,Harbor seal,dessert,80.81,132.53,f
+194,50,"Cat, jungle",main course,42.48,1428.41,f
+195,303,Cattle egret,main course,28.92,1388.5,t
+196,358,"Racer, blue",main course,198.65,539.61,f
+197,20,Cattle egret,main course,81.40,901.19,t
+198,125,Galapagos tortoise,dessert,196.87,1390.2,t
+199,165,"Iguana, common green",appetizer,112.81,103.95,f
+200,54,North American porcupine,main course,76.16,1335.24,t
+201,220,Brown lemur,appetizer,143.52,1306.12,t
+202,469,"Lapwing, southern",appetizer,69.74,1011.19,t
+203,287,"Stork, jabiru",main course,162.35,1039.19,t
+204,152,"Gull, southern black-backed",appetizer,71.61,865.45,t
+205,377,"Python, carpet",appetizer,194.86,656.94,t
+206,153,"Blackbird, red-winged",main course,64.55,1196.71,f
+207,284,Southern sea lion,dessert,86.37,18.54,t
+208,273,"Boa, columbian rainbow",main course,85.02,628.54,f
+209,436,Black-faced kangaroo,main course,93.79,429.89,t
+210,64,"Buffalo, american",main course,181.40,734.2,f
+211,190,"Buffalo, asian water",main course,77.11,635.72,f
+212,158,American badger,appetizer,18.28,571.65,f
+213,68,White-faced tree rat,dessert,19.93,1274.45,f
+214,464,"Stork, painted",dessert,179.10,1126.01,f
+215,438,Gaur,appetizer,28.43,385.71,t
+216,62,Frilled dragon,dessert,162.59,1416.27,f
+217,302,"Anteater, giant",main course,146.48,1318.24,t
+218,178,"Vulture, turkey",appetizer,105.98,1045.95,f
+219,248,Magnificent frigate bird,dessert,104.93,415.87,f
+220,111,"Bat, madagascar fruit",appetizer,152.51,1100.02,t
+221,193,Tiger cat,dessert,142.94,125.56,f
+222,194,"Turaco, violet-crested",dessert,74.13,1181.16,f
+223,41,"Hare, arctic",dessert,179.59,286.31,t
+224,193,"Woodpecker, red-headed",appetizer,50.78,1212.57,t
+225,100,"Goldeneye, common",main course,73.23,1497.81,f
+226,24,Western pygmy possum,appetizer,163.61,1305.33,t
+227,109,"Hyena, brown",main course,133.21,309.92,t
+228,229,Striped dolphin,dessert,5.43,1359.21,t
+229,205,Large cormorant,dessert,150.64,961.77,t
+230,234,Indian red admiral,main course,82.80,42.31,t
+231,477,White-winged dove,main course,51.60,802.84,f
+232,65,"Stork, openbill",appetizer,180.76,1209.59,f
+233,227,"Dog, african wild",appetizer,181.90,1423.88,t
+234,366,Black-winged stilt,dessert,113.90,1012.01,f
+235,352,Coke's hartebeest,appetizer,116.52,1181.6,t
+236,116,"Sloth, pale-throated three-toed",main course,34.90,1351.03,t
+237,478,Green-winged macaw,dessert,178.58,533.42,f
+238,404,"Snake, carpet",main course,54.26,474.11,f
+239,357,"Bulbul, black-fronted",dessert,14.37,852.78,f
+240,304,"Albatross, galapagos",appetizer,154.93,402.01,t
+241,298,Mexican beaded lizard,dessert,32.78,397.53,f
+242,82,Carpet snake,dessert,22.04,806.51,t
+243,165,South American puma,main course,110.94,263.47,t
+244,494,"Sungazer, yellow-brown",appetizer,57.24,1267.19,t
+245,240,Ring-tailed lemur,main course,145.35,1095.04,f
+246,410,"Bear, sloth",dessert,85.02,43.74,f
+247,274,Malagasy ground boa,appetizer,184.85,1070.26,f
+248,487,Mallard,main course,193.16,324.54,f
+249,210,Red-billed buffalo weaver,main course,41.13,1410.68,t
+250,446,Blue wildebeest,appetizer,62.42,399.23,t
+251,378,Eurasian badger,appetizer,46.61,617.45,f
+252,366,"Rat, white-faced tree",main course,120.03,795.42,t
+253,227,"Heron, green-backed",main course,168.77,8.07,f
+254,290,"Raccoon, common",appetizer,20.76,905.59,t
+255,443,"Stork, jabiru",appetizer,108.09,1338.77,f
+256,245,African jacana,main course,76.94,838.7,t
+257,244,"Mongoose, small indian",dessert,102.47,535.18,t
+258,45,"Possum, common brushtail",main course,110.30,146.88,f
+259,64,"Stork, marabou",appetizer,28.71,676.05,t
+260,247,"Bird, black-throated butcher",appetizer,175.81,138.73,t
+261,235,"Cliffchat, mocking",appetizer,47.92,671.06,t
+262,134,"Crane, wattled",appetizer,134.32,1029.37,f
+263,162,Black-cheeked waxbill,appetizer,50.23,595.15,f
+264,441,"Pigeon, wood",main course,135.27,269.21,f
+265,330,"Jackal, silver-backed",main course,33.77,1420.2,t
+266,23,"Seal, northern fur",appetizer,145.12,605.61,t
+267,117,White-throated toucan,dessert,184.63,946.17,t
+268,235,Red-billed tropic bird,main course,79.70,858.86,f
+269,280,Eastern indigo snake,appetizer,18.78,1455.93,f
+270,279,"Dove, ring",dessert,8.48,1392.44,f
+271,346,Common long-nosed armadillo,appetizer,140.81,320.36,f
+272,152,Black swan,dessert,175.80,827.5,t
+273,291,"Otter, oriental short-clawed",dessert,34.61,1427.23,t
+274,106,"Dragon, netted rock",dessert,72.86,993.09,f
+275,386,Jungle cat,appetizer,152.70,266.37,f
+276,201,Beisa oryx,appetizer,56.89,538.26,t
+277,216,Black-backed jackal,appetizer,94.96,1114.32,t
+278,422,"Rat, arboral spiny",dessert,165.69,617.99,f
+279,473,Asian water dragon,main course,98.47,1095.26,t
+280,172,Olive baboon,dessert,88.21,523.62,t
+281,351,Reindeer,main course,45.73,613.58,t
+282,210,"Vulture, king",main course,147.23,1404.99,f
+283,58,Euro wallaby,appetizer,162.60,707.74,t
+284,422,Springbuck,appetizer,139.83,822.93,f
+285,454,Gerbil (unidentified),main course,10.70,185.2,f
+286,488,Wolf spider,dessert,152.46,919.13,f
+287,454,"Stork, woolly-necked",appetizer,168.81,1466.88,f
+288,21,"Kiskadee, great",main course,20.51,797.55,t
+289,302,"Snake, carpet",appetizer,98.44,762.21,t
+290,305,Burchell's gonolek,main course,19.79,1460.28,t
+291,120,"Monkey, red howler",main course,158.60,542.38,t
+292,258,"Wombat, southern hairy-nosed",appetizer,194.55,1339.88,f
+293,299,African polecat,dessert,108.35,1478.87,t
+294,289,Common melba finch,appetizer,188.44,595.46,f
+295,193,Black-capped chickadee,appetizer,195.06,168.9,t
+296,172,Wood pigeon,dessert,80.26,382.05,f
+297,213,"Dragon, western bearded",main course,166.23,615.77,f
+298,13,Dusky gull,appetizer,58.48,1096.08,t
+299,101,"Snake, tiger",dessert,15.40,38.09,t
+300,386,Azara's zorro,main course,65.67,159.61,f
+301,152,Golden eagle,appetizer,148.45,1426.13,f
+302,95,"Coatimundi, ring-tailed",dessert,194.55,628.73,t
+303,203,Springbok,appetizer,7.87,221.22,t
+304,9,King cormorant,dessert,14.38,1405.17,t
+305,392,"Rhinoceros, white",appetizer,106.97,64.15,f
+306,304,Golden brush-tailed possum,main course,145.27,1428.38,f
+307,409,Egyptian cobra,main course,5.93,1379.79,f
+308,312,Laughing dove,main course,193.88,854.7,f
+309,87,"Ibis, glossy",appetizer,69.72,139.72,t
+310,277,Horned rattlesnake,dessert,117.59,1019.1,t
+311,189,Pocket gopher (unidentified),appetizer,100.05,1175.2,t
+312,428,Savannah deer,dessert,116.78,699.99,t
+313,299,Blesbok,dessert,69.64,37.54,t
+314,432,"Camel, dromedary",dessert,47.75,430.93,f
+315,40,"Eagle, pallas''s fish",appetizer,48.86,1385.83,t
+316,75,"Whale, long-finned pilot",dessert,55.97,1410.36,t
+317,286,"Deer, black-tailed",appetizer,96.74,250.87,f
+318,54,"Hen, sage",dessert,179.94,1152.11,t
+319,235,"Dolphin, bottle-nose",dessert,39.19,55.72,t
+320,410,Brown brocket,appetizer,138.31,1304.88,t
+321,59,"Bettong, brush-tailed",appetizer,103.30,1351.23,f
+322,139,"Tern, white-winged black",dessert,25.78,35.43,t
+323,347,Eastern dwarf mongoose,appetizer,18.69,964.06,t
+324,302,Grizzly bear,appetizer,176.08,1459.13,f
+325,221,Lilac-breasted roller,appetizer,65.57,1327.25,f
+326,482,"Rhinoceros, square-lipped",dessert,193.91,274.05,f
+327,199,"Dolphin, striped",appetizer,85.67,997.51,f
+328,216,"Dolphin, bottle-nose",main course,169.80,773.49,t
+329,314,Kongoni,main course,85.13,585.3,f
+330,266,American woodcock,main course,150.72,467.26,f
+331,328,"Rattlesnake, dusky",appetizer,12.57,937.11,t
+332,57,"Openbill, asian",main course,26.28,459.8,t
+333,332,"Fox, bat-eared",dessert,31.02,554.7,t
+334,273,"Tortoise, burmese black mountain",dessert,80.44,109.34,t
+335,126,Brazilian otter,appetizer,123.60,114.86,f
+336,340,Tiger,appetizer,45.57,690.18,f
+337,283,"Vulture, king",dessert,65.90,27.85,f
+338,175,"Pheasant, ring-necked",main course,133.32,901.41,f
+339,318,"Snake, buttermilk",dessert,92.77,675.71,t
+340,437,American marten,dessert,83.14,616.71,t
+341,52,"Fox, arctic",dessert,185.95,3.11,f
+342,264,"Bustard, stanley",dessert,191.56,685.65,f
+343,253,Giant armadillo,dessert,118.85,219.81,t
+344,244,Great cormorant,appetizer,18.31,672.06,t
+345,474,White-winged tern,dessert,132.45,1493.11,f
+346,23,"Crocodile, nile",dessert,163.46,350.5,t
+347,259,Woodchuck,dessert,28.36,749.73,f
+348,170,"Rhinoceros, white",appetizer,65.70,527.91,t
+349,459,Woodchuck,appetizer,18.08,79.15,t
+350,47,"Squirrel, european red",main course,136.84,85.7,f
+351,240,Giant heron,appetizer,188.98,281.02,t
+352,173,"Chipmunk, least",appetizer,36.94,892.67,f
+353,147,"Cobra, egyptian",dessert,82.94,914.1,t
+354,109,Cape wild cat,appetizer,180.99,1257.86,f
+355,295,"Turkey, australian brush",dessert,179.47,840.72,t
+356,90,Verreaux's sifaka,main course,41.50,893.06,f
+357,390,"Shark, blue",appetizer,68.88,86.95,t
+358,138,Jaguarundi,main course,123.48,1235.4,t
+359,181,African ground squirrel (unidentified),main course,168.64,960.21,t
+360,64,"Heron, goliath",appetizer,167.68,663.35,f
+361,213,Four-striped grass mouse,main course,187.10,1227.47,t
+362,142,Superb starling,main course,122.26,1129.37,f
+363,365,Bat-eared fox,main course,50.35,294.35,f
+364,402,Hottentot teal,appetizer,170.27,814.44,t
+365,348,"Fox, bat-eared",dessert,170.51,961.54,f
+366,370,"Opossum, american virginia",main course,102.73,963.7,t
+367,429,"Fox, north american red",dessert,24.64,907.17,t
+368,318,Purple moorhen,appetizer,115.41,876.59,f
+369,82,"Crane, wattled",appetizer,158.62,1126.55,t
+370,199,Numbat,dessert,117.83,342.39,t
+371,113,"Dog, bush",main course,69.62,806.61,t
+372,122,"Fox, arctic",dessert,33.38,77.49,f
+373,86,"Lemur, grey mouse",dessert,3.14,40.17,t
+374,43,Green-winged trumpeter,dessert,145.84,1034.88,f
+375,1,Weeper capuchin,dessert,112.50,312.55,f
+376,340,Marine iguana,appetizer,151.44,207.95,f
+377,396,Red-tailed cockatoo,dessert,3.25,1015.19,t
+378,275,Bohor reedbuck,main course,193.28,242.12,f
+379,226,"Meerkat, red",main course,91.44,470.4,f
+380,349,"Bison, american",dessert,3.64,1180.01,f
+381,61,Asian red fox,main course,52.31,888.68,f
+382,492,"Wolf, common",main course,70.00,1150.93,t
+383,332,"Gorilla, western lowland",main course,49.89,1495.15,t
+384,85,Glossy ibis,dessert,30.54,157.26,t
+385,109,Snake-necked turtle,dessert,124.00,404.76,t
+386,460,"Seal, northern elephant",main course,120.69,1109.64,f
+387,181,Common dolphin,appetizer,27.43,1374.18,f
+388,240,Arctic tern,main course,124.33,937.52,t
+389,172,"Dragon, komodo",main course,172.80,744.13,f
+390,239,Red hartebeest,dessert,116.17,216.12,f
+391,130,"Cliffchat, mocking",main course,183.16,540.07,f
+392,214,"Blackbird, red-winged",dessert,176.54,178.06,t
+393,223,Collared lemming,appetizer,135.54,1165.63,t
+394,453,Woodrat (unidentified),main course,87.18,1049.12,t
+395,327,Red-billed buffalo weaver,main course,162.51,1168.99,t
+396,68,Dabchick,main course,76.37,719.43,t
+397,384,Galapagos sea lion,main course,118.06,1326.66,f
+398,333,"Drongo, fork-tailed",main course,65.01,1094.23,t
+399,90,Eastern dwarf mongoose,main course,41.12,339.86,f
+400,155,Vervet monkey,main course,27.35,349.7,f
+401,220,Springbok,dessert,88.62,1361.48,t
+402,163,"Wallaby, bennett''s",dessert,117.95,230.8,t
+403,159,Chuckwalla,dessert,191.58,1382.21,f
+404,242,Woodchuck,dessert,132.13,697.93,f
+405,438,Python (unidentified),dessert,169.05,2.05,f
+406,193,"Boa, malagasy ground",dessert,5.92,748.86,f
+407,368,"Eagle, bateleur",appetizer,43.44,996.97,f
+408,182,"Wombat, southern hairy-nosed",dessert,140.76,67.88,f
+409,307,Leadbeateri's ground hornbill,appetizer,134.13,266.24,t
+410,219,"Squirrel, red",dessert,158.84,336.76,f
+411,182,African buffalo,dessert,76.03,383.62,t
+412,404,"Grouse, sage",main course,7.11,114.32,t
+413,268,"Skua, long-tailed",main course,15.60,249.49,f
+414,470,"Stork, european",dessert,176.45,378.14,f
+415,118,Purple moorhen,appetizer,57.71,850.76,f
+416,170,House sparrow,dessert,148.36,685.36,t
+417,123,"Penguin, fairy",main course,114.19,245.89,f
+418,317,Greater kudu,main course,89.54,1463.19,t
+419,285,Small Indian mongoose,main course,65.05,579.12,t
+420,495,Kaffir cat,dessert,182.33,468.99,t
+421,83,Fork-tailed drongo,dessert,179.91,853.79,f
+422,162,"Wallaby, tammar",dessert,22.38,1300.58,f
+423,260,"Toucan, white-throated",main course,71.26,1262.13,t
+424,410,Arctic tern,main course,140.59,414.91,f
+425,102,Uinta ground squirrel,appetizer,159.35,751.27,t
+426,395,"Pheasant, ring-necked",dessert,71.52,131.48,t
+427,496,Snowy sheathbill,dessert,14.41,746.22,f
+428,140,"Roadrunner, greater",appetizer,60.96,1354.26,f
+429,332,Roe deer,main course,132.13,1181.92,f
+430,177,African jacana,main course,83.99,363.23,f
+431,78,Southern white-crowned shrike,dessert,111.11,410.12,t
+432,73,"Lemur, sportive",main course,168.95,145.23,f
+433,240,"Mongoose, eastern dwarf",main course,149.12,130.36,t
+434,11,"Marten, american",dessert,47.16,496.31,f
+435,421,Dama wallaby,dessert,98.76,776.59,f
+436,216,Common genet,appetizer,183.09,1060.0,t
+437,248,"Swan, trumpeter",appetizer,93.31,1408.82,t
+438,188,"Shark, blue",appetizer,163.70,637.23,t
+439,464,Tailless tenrec,dessert,12.48,322.86,t
+440,15,"Trumpeter, green-winged",main course,92.98,617.73,f
+441,115,Worm snake (unidentified),appetizer,114.66,1077.53,t
+442,145,"Bustard, denham''s",appetizer,182.62,1320.45,t
+443,131,Wild water buffalo,appetizer,147.87,980.73,f
+444,179,"Goose, greylag",dessert,12.11,1121.42,t
+445,92,European badger,appetizer,70.53,575.1,f
+446,184,"Phalarope, red-necked",dessert,23.22,1051.16,t
+447,338,"Cliffchat, mocking",dessert,80.24,1320.84,f
+448,365,"Gull, swallow-tail",main course,87.57,549.72,f
+449,372,"Sparrow, rufous-collared",dessert,75.68,1129.63,t
+450,208,South American meadowlark (unidentified),dessert,26.90,429.85,t
+451,449,"Bleu, blue-breasted cordon",appetizer,31.09,153.89,t
+452,324,Black-winged stilt,main course,189.95,1436.59,t
+453,153,Gambel's quail,main course,22.06,81.1,t
+454,362,"Egret, snowy",appetizer,28.94,1266.87,t
+455,317,"Capuchin, weeper",dessert,117.16,872.19,f
+456,423,Sandhill crane,dessert,35.95,956.34,t
+457,348,"Tenrec, tailless",main course,190.88,223.13,f
+458,338,"Zebra, common",main course,59.50,972.32,f
+459,376,Desert tortoise,appetizer,28.99,577.81,t
+460,352,Trumpeter swan,main course,35.55,749.37,t
+461,349,"Pintail, bahama",appetizer,83.38,974.12,f
+462,205,"Hyena, brown",appetizer,33.86,356.49,f
+463,221,"Wolf, timber",main course,167.31,1240.43,f
+464,80,South African hedgehog,appetizer,124.22,302.08,t
+465,237,"Godwit, hudsonian",appetizer,37.02,766.77,f
+466,484,"Beaver, american",dessert,155.21,122.75,f
+467,459,"Gull, southern black-backed",appetizer,33.28,592.9,t
+468,39,"Meerkat, red",dessert,62.63,69.97,f
+469,200,"Jackrabbit, white-tailed",dessert,176.58,492.82,f
+470,308,Northern elephant seal,dessert,1.23,1250.83,f
+471,45,Blue duck,main course,67.90,642.44,t
+472,465,Burmese black mountain tortoise,main course,80.95,987.65,f
+473,190,Red-billed tropic bird,main course,104.63,292.05,t
+474,464,Gulls (unidentified),main course,140.98,1224.85,t
+475,494,"Squirrel, eastern fox",appetizer,189.24,5.21,t
+476,165,"Chickadee, black-capped",dessert,99.64,982.52,t
+477,259,"Stork, painted",dessert,62.87,1406.19,t
+478,465,"Langur, common",main course,26.21,701.55,t
+479,15,"Phalarope, red",appetizer,75.87,986.77,f
+480,87,Capybara,main course,59.05,310.43,f
+481,169,"Tapir, brazilian",dessert,120.16,1059.06,t
+482,251,Timber wolf,dessert,15.72,287.49,f
+483,304,"Crab, red lava",appetizer,197.30,1026.65,f
+484,444,Hanuman langur,appetizer,145.88,177.42,t
+485,78,Bonnet macaque,appetizer,168.02,701.27,t
+486,179,"Salmon, sockeye",appetizer,134.43,1362.26,f
+487,103,Turtle (unidentified),appetizer,121.24,101.41,f
+488,132,"Grouse, greater sage",appetizer,157.04,169.33,f
+489,239,"Bushbaby, large-eared",dessert,155.71,367.91,t
+490,140,"Crane, stanley",dessert,175.11,928.41,f
+491,291,Thirteen-lined squirrel,dessert,158.18,1172.54,f
+492,362,Little brown bat,main course,91.10,421.31,f
+493,99,"Glider, sugar",main course,126.13,594.13,f
+494,366,Arctic tern,appetizer,10.55,566.65,f
+495,240,Two-banded monitor,dessert,4.37,198.16,t
+496,287,"Dog, black-tailed prairie",main course,55.46,1488.78,t
+497,376,"Vulture, bengal",appetizer,13.96,1066.13,f
+498,160,Eurasian badger,dessert,78.32,1079.51,t
+499,296,Kaffir cat,dessert,95.57,595.75,f
+500,407,"Turtle, eastern box",appetizer,3.73,73.86,t

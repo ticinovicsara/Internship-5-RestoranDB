@@ -1,501 +1,500 @@
-Id,Name,City,TableCapacity,WorkingHours,GeoLocation,Delivery
-1,Dabtype,Tall Salḩab,40,12:36,35.2593608,false
-2,Gabspot,Mamer,55,10:26,49.6306384,true
-3,Mita,Yono,45,19:45,35.0900891,true
-4,Skivee,Kampong Chhnang,44,13:48,12.1392352,false
-5,Oozz,El Carmen,50,14:08,-13.5033753,true
-6,Feedmix,Sławoborze,64,14:39,53.8917777,true
-7,Kwilith,Nanmo,21,21:13,49.1919498,true
-8,Voomm,La Concepción,59,14:08,11.940477,false
-9,Browsebug,Kachug,67,19:16,53.9608024,false
-10,Kimia,Xuedian,19,14:51,34.497578,true
-11,Thoughtbridge,Longgang,63,12:26,22.720974,false
-12,Mynte,Alicante/Alacant,27,18:22,38.3628307,true
-13,Bubblebox,Vischongo,51,11:51,-13.589688,false
-14,Skippad,Witbank,46,10:58,-25.8621309,false
-15,Voonder,Dafundo,45,10:53,38.7004199,false
-16,Trilith,Cikiruh,8,10:13,-6.8027421,false
-17,Thoughtbridge,Sarpang,2,21:07,26.9373041,true
-18,Edgeblab,Deep River,11,18:28,46.0972432,true
-19,Voolith,Seredeyskiy,26,10:04,54.0518227,true
-20,Riffpedia,Xitou,12,20:13,29.866917,false
-21,Livefish,Hekou,68,10:56,22.529403,true
-22,Skimia,Maştağa,53,10:42,40.5329933,false
-23,Browsecat,Iowa City,9,16:48,41.6613587,true
-24,Buzzster,Salt Lake City,41,8:59,40.7,false
-25,Fanoodle,Krasnoshchekovo,39,20:52,51.6661372,false
-26,Voomm,Xinmin,69,16:11,41.985186,true
-27,Jabbertype,Jin’e,25,11:54,38.487193,false
-28,Oodoo,Tolitoli,25,16:45,0.8768231,false
-29,Cogilith,Ouro Preto do Oeste,53,17:42,-10.7194641,true
-30,Ooba,Owando,19,19:34,-0.4829632,true
-31,Youtags,Tandou,24,18:41,22.884044,true
-32,Lajo,San Celestio,14,17:18,13.8801742,false
-33,Youopia,Jiangnan,27,10:22,22.781631,false
-34,Skivee,Liverpool,47,12:41,53.4913801,false
-35,Cogidoo,Meedhoo,19,11:25,-0.5833333,true
-36,Shufflebeat,Pare,5,21:01,-7.765512,false
-37,Eadel,Syriam,41,18:51,16.7587537,false
-38,Jayo,Lubāna,28,9:51,56.8999269,false
-39,Dynabox,Heze,65,21:39,35.23375,true
-40,Browseblab,Madingou,43,21:17,-4.1682452,true
-41,Jayo,Boissevain,30,16:33,49.23062,false
-42,Yakitri,Zongluzui,48,10:50,30.699439,false
-43,Voolith,Sembungan Kidul,52,19:00,-7.0054807,false
-44,Avavee,Gävle,50,13:23,60.6755434,true
-45,Rooxo,Yangjiafang,6,9:59,29.755129,true
-46,Quatz,Baishui,45,14:14,35.177451,false
-47,Gigaclub,Kyzyl-Burun,42,17:15,41.07754,true
-48,Skyba,Haicheng,27,16:13,40.882377,false
-49,Feedfish,Jingxi,26,9:12,23.134117,true
-50,Youtags,Rivadavia,30,14:28,-34.610303,true
-51,Eire,Jubao,39,9:57,23.1216171,false
-52,Quatz,Kuala Pilah,19,13:56,2.7299382,false
-53,Livepath,Kedungwringin,13,18:19,-7.4461263,false
-54,Mydeo,Longxi,38,21:15,35.00394,false
-55,Voomm,Baidoa,25,21:09,3.1140502,false
-56,Feedfish,Bandar-e Lengeh,6,13:44,26.5627867,false
-57,Skinte,Pameungpeuk,39,15:45,-7.6378396,true
-58,Kwinu,Phetchabun,29,14:10,16.8046261,false
-59,Eare,Xinhua,24,11:06,38.05106,true
-60,Fatz,Mullsjö,29,11:26,57.9250754,false
-61,Ooba,Margos,5,8:20,7.929855,true
-62,Realfire,Asnières-sur-Seine,42,9:22,48.9167257,true
-63,Devpulse,Gaoyu,16,21:09,32.781659,true
-64,Photofeed,Amsterdam,13,12:28,52.3612714,true
-65,Devpulse,Hidalgo,1,11:53,20.0910963,false
-66,Edgepulse,Pongkor,49,15:12,-8.6852273,true
-67,Jayo,Savitaipale,8,8:08,60.2213963,true
-68,Flipopia,Fushan,57,12:56,23.021478,true
-69,Tavu,Zlynka,51,10:07,48.4811908,false
-70,Npath,Ambato Boeny,2,19:07,-16.4708895,true
-71,Topdrive,Pa Phayom,57,14:36,7.8401615,false
-72,Flipbug,Santa Teresita,33,15:06,13.874099,false
-73,Skipfire,Vinnytsya,10,16:55,49.233083,true
-74,Devcast,Gujrāt,31,9:54,32.5734842,true
-75,Quamba,Xiji,38,11:58,35.963912,true
-76,Meevee,Cielmice,20,15:05,50.0138436,false
-77,Katz,Kuala Lumpur,8,12:15,3.1523104,false
-78,Mydo,Addiet Canna,36,8:24,11.2642678,true
-79,Ntag,Flagstaff,67,15:36,-31.3215134,true
-80,Skipstorm,Bhamdoûn el Mhatta,70,16:32,33.8088596,false
-81,Jabbercube,Basiao,7,16:33,10.0698222,true
-82,Photospace,Viçosa,61,19:02,-5.98978,false
-83,BlogXS,Toupi,13,21:12,26.751281,true
-84,Oyondu,Tours,61,10:41,47.3892142,false
-85,Eayo,Sikasso,2,17:27,11.3223834,true
-86,Abatz,Setro,33,21:42,-7.2914614,true
-87,Bubblebox,Znamenskoye,3,8:54,53.3062953,true
-88,Shufflester,Zemun,43,17:59,44.8532094,false
-89,Mudo,Las Tejerías,38,9:43,10.2568854,false
-90,Omba,Selishche,40,8:45,55.7675702,false
-91,Vinder,Monching,18,19:48,7.7381338,true
-92,Mydeo,Zhuanqiang,31,15:16,31.264895,true
-93,Vidoo,Ridder,6,16:24,50.3382214,true
-94,Fivechat,La Paz,7,18:28,-34.7486079,true
-95,Demivee,Chavárion,56,21:31,37.8471205,false
-96,Geba,Isiro,62,12:57,2.7722364,true
-97,Oyoba,Velké Bílovice,46,19:40,48.85786,false
-98,Thoughtbridge,Farnham,21,15:04,45.2865242,true
-99,Myworks,Łapczyca,57,12:33,49.9513027,true
-100,Topicstorm,Targowisko,2,14:43,49.9846292,true
-101,Aivee,Ocumare del Tuy,21,12:54,10.0897999,true
-102,Yakitri,Río Ceballos,37,19:03,-31.7436794,true
-103,Flashpoint,El Paso,57,14:56,31.77,true
-104,Twinder,Kamieniec Ząbkowicki,22,11:48,50.5251922,true
-105,Jaloo,Burmakino,55,10:24,57.4341878,true
-106,Blogtag,Trang,10,21:33,7.55633,false
-107,Linkbuzz,Fort Myers,7,18:50,26.6732151,false
-108,Reallinks,Liangjing,26,18:52,27.145704,true
-109,Brainsphere,Batujaran,53,11:11,-6.9144512,false
-110,Midel,Malaga,39,21:31,36.7226027,true
-111,Kwilith,Brikcha,41,13:21,34.9645166,true
-112,Twimbo,Calauag,19,17:52,13.9573134,false
-113,Browsetype,Bačka Topola,47,17:29,45.8144238,false
-114,Snaptags,Banjar Budakeling,52,18:35,-8.2104974,false
-115,Tagchat,Huhe,62,16:39,25.5020583,false
-116,Kimia,Krrabë,59,10:36,41.2177603,false
-117,Realmix,Saint-Jean-de-Monts,9,17:05,46.8260183,false
-118,Wikido,Xingyuan,62,9:02,23.681774,true
-119,Flashdog,Krajan Satu,5,10:55,-7.3743397,true
-120,Trilia,Gjegjan,13,16:55,41.9437159,false
-121,Jazzy,Gorna Oryakhovitsa,65,16:19,41.9250632,true
-122,Tekfly,Anhua Daying,49,10:26,24.414825,true
-123,Oloo,Benchu,41,17:36,40.457454,false
-124,Wikibox,Cholet,18,19:07,47.0615944,true
-125,DabZ,Balauring,42,14:50,-8.2864014,true
-126,Thoughtstorm,Des Moines,47,11:26,41.6,false
-127,Kwinu,Hor,39,15:34,30.77175,true
-128,Blogpad,Keyinhe,39,21:18,29.2594417,true
-129,Buzzbean,São Torcato,53,10:36,41.4833449,true
-130,Teklist,Pombal,2,14:36,-6.7708458,false
-131,Twimm,Amiens,51,8:04,49.8921732,false
-132,Tanoodle,Hroznětín,63,15:43,49.7503184,false
-133,Youtags,Zakupne,44,8:50,49.1184617,false
-134,Flashdog,Shimen,41,17:51,29.584292,true
-135,Quamba,Budakovo,62,8:58,42.3553237,false
-136,Devify,Tosno,61,9:01,59.5403823,true
-137,Digitube,La Tuque,31,8:34,47.4175416,true
-138,Trudoo,Tabanan,6,11:38,-8.4595561,true
-139,Viva,Cempaka,57,16:35,-3.4892191,true
-140,Tazzy,Rosso,21,20:33,16.5163413,true
-141,Janyx,Trzcińsko Zdrój,45,21:18,52.96446,true
-142,Kazio,Zubtsov,50,18:35,56.170028,false
-143,Geba,Yinjiacheng,41,20:32,36.188112,true
-144,Eazzy,Nyandoma,34,14:43,61.6614104,true
-145,Skajo,Capira,8,18:58,8.7600869,true
-146,Twimbo,Mexico,24,10:10,14.4783119,true
-147,Devpoint,Staré Město,22,17:53,50.1617318,false
-148,Yakitri,Lubichowo,11,13:51,53.8514527,true
-149,Babbleopia,Chaodi,23,14:52,28.099239,false
-150,Skyvu,Kosów Lacki,41,15:51,52.596028,true
-151,Dabvine,Guanhães,41,16:23,-18.8424187,true
-152,Wordify,Alberton,22,16:23,46.81685,false
-153,Kimia,Sísion,65,10:56,35.3085456,true
-154,Voonder,Castanheiro do Sul,65,12:17,41.1199378,false
-155,Thoughtstorm,Karlskoga,27,21:47,59.2423602,false
-156,Yata,Sahavato,42,10:04,-20.6,true
-157,Divape,Poja Nae,27,9:39,-8.50246,false
-158,Dablist,Mitsukaidō,58,15:19,36.229138,true
-159,Skiba,Wilmington,13,17:26,39.7472496,false
-160,Brainbox,Weishan,17,16:34,25.227212,true
-161,DabZ,Stockholm,10,13:00,59.2963732,false
-162,Digitube,Smederevska Palanka,27,14:58,44.367191,true
-163,Centizu,Blahodatne,30,14:10,47.7016459,true
-164,Blogspan,Deqing,54,19:07,30.54251,false
-165,Izio,Ryjewo,59,10:28,53.8446847,true
-166,Pixonyx,El Aguilar,61,11:39,-36.8868126,false
-167,Yata,Yolöten,58,9:54,37.2944409,false
-168,Yakitri,Lazaro Cardenas,23,9:55,18.2886378,false
-169,Photolist,Heping,9,18:51,24.44218,true
-170,Yabox,El Chol,7,13:45,14.9618641,false
-171,Skyndu,Chernyshevsk,17,20:54,52.4040809,false
-172,Jazzy,Ōme,33,14:13,38.9013413,false
-173,Kanoodle,Manado,66,12:43,1.4748305,true
-174,Lazzy,Loúros,55,11:35,39.162045,false
-175,Voolith,Xiyuan,24,16:10,30.5859716,false
-176,Photobean,Eslāmābād,70,10:52,38.1304493,false
-177,Flashset,Vesele,12,10:06,46.9821813,true
-178,Edgeclub,Corrego Grande,60,18:35,-27.593609,true
-179,Quimm,Nizui,56,11:25,42.280524,true
-180,Demizz,Idanha-a-Nova,8,19:06,39.9226488,true
-181,Dabtype,Feng’an,49,16:11,23.0981075,false
-182,Realcube,Évosmos,53,16:22,40.6661376,false
-183,Agivu,Luleå,59,13:41,65.5759908,true
-184,Photofeed,Karangsari,44,19:21,-6.427987,false
-185,Jetwire,Laocheng,63,17:11,34.683646,false
-186,Wikizz,Jieznas,40,21:35,54.6,false
-187,Leenti,Itacurubí del Rosario,53,8:48,-24.5415767,true
-188,Thoughtmix,Maranganí,20,17:00,-14.3568964,true
-189,Flipopia,Boston,25,14:02,42.34,false
-190,Linklinks,Provins,56,13:34,48.5625988,false
-191,Kazu,Phoenix,7,13:20,33.45,true
-192,Twiyo,Yingchun,48,20:38,44.9829,true
-193,Buzzshare,Bellavista,66,12:15,-12.0582305,true
-194,Yoveo,Nanterre,24,9:53,48.8967143,false
-195,Quinu,Jincheng,63,18:12,35.490701,false
-196,Skipfire,Dipayal,11,9:05,29.2604745,true
-197,Yadel,Pueblo Nuevo,28,13:52,9.0144214,false
-198,Kaymbo,Hulín,7,8:15,49.3168925,true
-199,Vimbo,Kruty,15,15:06,51.0566412,false
-200,Cogibox,Alīpur,44,11:56,29.3830191,true
-201,Jaloo,Quỳ Châu,53,16:36,19.5463056,true
-202,Bubblemix,Batojaran,1,17:48,-7.0555388,true
-203,Viva,Mesquite,29,17:14,32.7757,true
-204,Podcat,Hualongyan,44,18:59,30.170189,false
-205,Jetwire,Wang Yang,54,8:04,17.0740883,true
-206,Oodoo,Yubileyny,65,19:36,51.2343307,true
-207,Bluezoom,Santa Bárbara d'Oeste,58,15:48,-22.7557422,false
-208,Blogspan,Sipirok,30,21:07,1.616009,true
-209,Eidel,Ngã Bảy,38,11:58,9.8252566,false
-210,Skyba,Matwaḩ,14,11:33,15.0676,true
-211,Wikizz,Pingyin,34,16:16,36.289265,true
-212,Yakidoo,Bangbayang,64,18:30,-6.8734228,false
-213,BlogXS,Gaotuo,28,12:45,41.132444,true
-214,Yodoo,Zhongxing,25,16:07,30.920219,false
-215,Yakidoo,Cho-airong,64,15:18,6.2245859,true
-216,Skipfire,Cigeulis,14,14:30,-6.5881066,true
-217,Ailane,Baykonyr,52,17:36,45.6232258,false
-218,Tazz,Gaoyi,35,20:28,37.615159,true
-219,Gabtune,Bryansk,43,9:27,53.3249623,false
-220,Yambee,Saint Augustine,16,21:17,29.910184,true
-221,Eazzy,Lugovoy,5,9:17,42.9438711,false
-222,Chatterpoint,Bundoran,22,16:04,54.4771768,true
-223,Plambee,Ryūō,33,13:24,36.7846385,true
-224,Avavee,Airdrie,61,21:07,51.2828145,false
-225,Blogspan,Sonzacate,23,13:53,13.7374387,true
-226,Youopia,Bílovice,27,15:57,49.0996492,false
-227,Meevee,Río Ceballos,28,14:38,-31.7436794,false
-228,Meevee,Shevchenkove,51,13:11,49.6877737,true
-229,Jabberbean,El Tambo,44,18:20,1.4081109,true
-230,Vinder,Lapuz,55,12:40,14.7075271,false
-231,Riffpedia,Changzhi,27,14:42,36.195409,false
-232,Realbuzz,Hualfín,52,19:20,-34.7318914,false
-233,Kimia,Ergates,3,13:52,35.057659,false
-234,Browsebug,Sumuranyar,33,11:59,-7.7546,false
-235,Jetwire,Stockholm,62,12:38,47.0184615,false
-236,Innotype,Kuala Lumpur,17,17:03,3.2987908,true
-237,Skimia,Jiangtun,7,15:10,31.920658,true
-238,Livetube,Hantsport,24,10:33,45.06685,false
-239,Wordtune,Bristol,23,11:10,51.4063964,false
-240,Ntag,Jingling,17,13:20,30.96187,true
-241,Trudeo,Ziway,60,17:08,7.92772,true
-242,Photofeed,Longde Chengguanzhen,14,17:18,35.613293,true
-243,Zoombeat,Nova Petrópolis,30,17:57,-29.362503,false
-244,Twimbo,Pindi Bhattiān,38,19:49,31.9069842,true
-245,Oyoyo,Oqtosh,10,16:00,39.9225394,true
-246,Tanoodle,Uga,48,15:31,5.9353459,false
-247,Izio,Karang,28,14:18,-6.2691666,false
-248,Buzzster,Rato,21,18:20,-8.655524,false
-249,Skyble,Mertzig,69,10:23,49.8278894,false
-250,Twitterworks,Cikawung,21,20:30,-6.6047761,false
-251,Fadeo,Sölvesborg,68,14:39,56.0302709,false
-252,Browseblab,Lousado,18,19:19,41.3537964,false
-253,Bubblemix,Lanhe,39,16:27,22.838345,true
-254,Wordpedia,Villa Nueva,21,19:46,-31.4505323,true
-255,Oba,Wuning,56,21:37,29.256382,false
-256,Oodoo,Yijing,43,19:29,22.555855,false
-257,Riffpath,Wangjiachang,6,17:28,39.142026,false
-258,Kwideo,Ciengang,50,14:55,-7.0181673,true
-259,Yamia,Diavatós,28,18:49,40.5463267,true
-260,Abatz,Ježdovec,21,20:54,45.7788583,true
-261,Gabvine,Bluff,39,10:14,-46.5996116,false
-262,Jaxspan,Kandahār,26,21:25,31.628871,false
-263,Voonix,Hayang,40,12:02,35.9132087,false
-264,Jabbersphere,Artybash,63,18:05,51.791159,false
-265,Twiyo,Fuwah,18,14:32,31.2035483,true
-266,Tagpad,Xihanling,53,17:44,34.850606,true
-267,Oba,Zhongying,29,14:05,39.953041,true
-268,Vipe,Suileng,27,14:50,47.236015,true
-269,Devpoint,Bonanza,44,15:01,14.0312016,false
-270,Fivespan,Ipoh,59,18:58,4.6096768,false
-271,Meetz,Tailing,1,15:36,31.444052,true
-272,Oodoo,Nikol’skoye,10,13:00,45.0058742,true
-273,Yotz,Jiubao,3,9:26,30.30791,true
-274,Mybuzz,Cái Dầu,57,18:48,10.5682157,false
-275,Jayo,Baimiao,22,16:38,39.898215,false
-276,Yodoo,Kassel,6,11:22,51.2804955,false
-277,Oyoba,Płock,41,9:48,52.5363656,false
-278,Flipopia,Harrison,34,21:14,29.8867778,false
-279,Wordify,Mastaiciai,17,20:24,54.81998,false
-280,Edgeblab,Saguiaran,34,8:10,8.039166,false
-281,Meembee,Greenhills,31,17:49,53.3122864,true
-282,Voonte,Caramay,15,15:46,10.1866432,false
-283,Ntag,Kyŏngsŏng,46,12:34,41.5872,true
-284,Brainbox,Ḩabbān,52,12:14,14.3545083,false
-285,Twitterbeat,Zhanghua,33,15:50,37.029718,true
-286,Devcast,Xiaoguan,28,10:07,36.977145,true
-287,Chatterpoint,Rejasa Kaja,31,14:06,-8.447079,true
-288,Eire,Emporeío,40,15:09,36.3573462,true
-289,Linklinks,Labangka Satu,1,19:24,-8.906419,false
-290,Rhyzio,El Mirador,12,8:13,19.3267846,true
-291,Zooveo,Padasono,55,11:56,-7.3559,false
-292,Tagfeed,Meia Via,6,20:33,39.4721645,false
-293,Devify,Sasar,39,14:36,-9.2759427,false
-294,Meevee,Tianyi,33,18:10,22.278214,true
-295,Rhycero,Jeziora Wielkie,26,19:15,52.5295871,true
-296,Pixonyx,Kayes,25,20:56,-4.423943,false
-297,Youbridge,Renko,18,20:54,60.8936893,true
-298,Fivechat,Grenoble,22,11:14,45.1934857,false
-299,Babblestorm,Cereté,40,21:16,8.909013,true
-300,Trudeo,Qiling,59,13:27,24.086165,false
-301,Jayo,Dārāb,15,18:08,28.7559514,false
-302,Topicblab,Cigaras,29,13:08,14.2226543,true
-303,Realbridge,Karangkedawung,45,12:35,-7.4551089,true
-304,Realfire,Buri,38,19:54,-23.7981763,false
-305,Voolith,Shibi,49,13:06,26.244258,true
-306,Devshare,Vilarinho das Cambas,38,17:38,41.3929185,false
-307,Skippad,Madrid,38,13:50,40.500471,false
-308,Dabshots,Göteborg,31,13:37,57.6795423,false
-309,Kimia,Göteborg,33,8:41,57.6902027,true
-310,Twiyo,Bungu,21,20:35,-7.6263425,true
-311,Skimia,Pasirputih,26,19:01,-7.698725,false
-312,Zoozzy,Fengle,8,14:05,30.8346,false
-313,InnoZ,Qiling,70,15:13,24.086165,true
-314,Twitterwire,Khawr Maksar,7,11:07,12.8025919,true
-315,Flipopia,Jasugih Selatan,56,19:18,-6.4347,true
-316,Quimm,Karata,56,13:12,42.5969703,true
-317,Devbug,Batambak,35,16:52,-6.995577,false
-318,Skipfire,Balta,66,12:32,47.9370871,true
-319,Fivechat,Zhireken,54,21:29,52.8235876,false
-320,Gabspot,Puzi,6,17:13,23.4464152,true
-321,Thoughtbridge,Carrasqueira,40,17:15,40.6954986,false
-322,Mybuzz,San Andros,38,21:59,25.0522614,true
-323,Blogspan,Pakemitan,51,9:01,-6.9211461,true
-324,Bluezoom,Kurjan,52,12:08,40.7163491,false
-325,Camimbo,Taraan,65,13:30,3.3273599,true
-326,Myworks,Vesëlyy,26,15:31,47.0914911,true
-327,Jabbertype,Tsagaandörvölj,36,19:35,45.79817,false
-328,Skipfire,Xinpu,29,14:36,27.44587,false
-329,Mynte,Pidvolochys’k,19,10:26,49.5290848,true
-330,Fatz,Poja Nae,69,9:48,-8.50246,true
-331,Browsedrive,Muchkapskiy,70,14:13,51.8478427,false
-332,Quinu,Nawu,11,19:37,22.00001,true
-333,Realmix,Tierp,70,12:55,60.3448681,false
-334,Realpoint,Narvacan,3,18:43,17.4190115,false
-335,Brightbean,Okpoma,51,12:33,6.6635241,false
-336,Bluejam,Stizhkivs’ke,16,8:23,48.1181855,false
-337,Trilith,Mangkon Daja,14,16:42,-7.5002292,true
-338,Camimbo,Chazón,29,11:20,-33.079137,true
-339,Dynazzy,Berezne,6,11:43,50.9996233,false
-340,Kamba,Cácota,50,19:21,7.268697,true
-341,Pixonyx,Barisāl,22,21:54,22.7029212,true
-342,Eayo,Frankfurt am Main,42,10:01,50.041381,false
-343,Yodo,San Julian,67,8:13,11.748142,true
-344,Topicshots,San Carlos,60,15:24,-5.9649082,true
-345,Geba,Guhua,26,18:54,34.258826,false
-346,Skyndu,Nagaoka,37,13:41,38.0413984,true
-347,Dabtype,Agassiz,48,13:06,49.2389409,false
-348,Dabfeed,Huiwan,25,10:34,24.908293,false
-349,Meembee,Ondoy,66,17:29,11.8194472,true
-350,Zoozzy,Al Karmil,53,21:03,31.42301,false
-351,Tagcat,Zvezdara,11,14:56,44.7767137,false
-352,Skyble,Turbo,8,10:05,8.0951588,false
-353,Gabcube,San Juan Ixcoy,24,11:02,15.59972,false
-354,Rhynoodle,San Jerónimo,54,13:12,-13.54918,true
-355,Skippad,Nesterov,9,21:50,54.5979325,false
-356,Tagopia,Irirum,52,10:38,14.8431264,false
-357,Trudeo,Gahe,36,8:12,31.051908,false
-358,Thoughtworks,Changzhou,40,8:48,31.811226,true
-359,Zooxo,Datang,57,21:23,29.693316,false
-360,Devbug,Itaperuçu,46,16:38,-25.1169056,true
-361,Kaymbo,La Estrella,3,18:07,6.1317011,true
-362,Vinder,New Sibonga,36,12:21,10.0304186,true
-363,Plambee,Daugavgrīva,22,14:45,57.0408915,false
-364,Meejo,Peterhof,67,17:20,59.8863041,true
-365,BlogXS,Pinar del Río,25,15:17,22.4076256,false
-366,Katz,Tarsouat,37,8:44,29.5769271,true
-367,Oyonder,Fenghuang,68,19:08,27.948308,false
-368,Kwinu,Xiangyang,19,15:09,32.009016,true
-369,Ailane,Krasiczyn,15,19:21,49.7762204,false
-370,Oyonder,Pringgabaya,34,13:22,-8.5373782,false
-371,Linkbridge,Nizhniy Bestyakh,65,8:56,61.9639779,false
-372,Tazz,Nai Harn,34,15:04,7.7785093,false
-373,Fiveclub,Siderejo,7,18:56,-7.3055182,true
-374,Geba,Purwosari,34,11:31,-7.7629501,false
-375,Ozu,Eskilstuna,54,20:51,59.4084121,false
-376,Livetube,Kalāt-e Nāderī,1,17:47,36.99532,false
-377,Oozz,Pisaras,47,20:26,8.5703071,true
-378,Yombu,Tân Hòa,16,18:52,21.3971282,true
-379,Buzzbean,Tajan,59,9:32,-0.031303,true
-380,Wikido,Tuupovaara,40,14:50,62.4857735,false
-381,Yotz,Jinping,38,17:47,23.365556,false
-382,Kaymbo,Voronezh,35,15:40,51.7421319,true
-383,Topiczoom,Yaozhanzi,35,14:34,31.336174,true
-384,Rhyloo,Korsun’-Shevchenkivs’kyy,9,19:56,49.41894,false
-385,Skiptube,Agbani,46,21:50,6.3049636,false
-386,Jatri,Sonder,45,9:58,1.2730471,true
-387,Youspan,Visconde do Rio Branco,66,15:37,-21.013792,false
-388,Brainlounge,Fengshan,10,21:40,24.546876,false
-389,Flashset,Jiaokou,18,17:25,36.982186,false
-390,Trilia,Primero de Mayo,36,19:36,19.1753648,true
-391,Vipe,Zhuangbian,68,19:04,25.63273,true
-392,Buzzshare,Kingsey Falls,12,10:46,45.85007,false
-393,Camimbo,Kuantan,34,15:18,3.9671435,false
-394,Nlounge,Baima,47,14:18,29.528923,false
-395,Vitz,Takahagi,38,16:21,35.8966741,true
-396,Skidoo,Lanhas,46,16:46,41.6714042,false
-397,Tambee,Curuggoong,39,20:04,-6.2152002,false
-398,Buzzdog,Shanjeev Home,23,21:15,6.9787414,false
-399,Talane,‘Irbīn,58,8:12,33.5389052,false
-400,Thoughtmix,Bente,44,19:20,-1.955673,false
-401,Yoveo,København,9,17:25,55.6646665,false
-402,Feedfire,Uliastay,56,14:10,47.7277191,false
-403,Skyvu,Yebaishou,57,10:06,26.641315,true
-404,Brainsphere,Manassas,3,11:01,27.6112399,false
-405,Linkbuzz,Resende,59,20:58,-22.4709659,true
-406,Skyba,Samothráki,46,21:31,40.4476834,true
-407,Quatz,Omaha,51,17:06,41.2418116,true
-408,Jazzy,Pylaía,59,18:01,40.6027503,false
-409,Demizz,Lüyang,16,15:55,31.878735,true
-410,Thoughtstorm,Tilmi,61,17:02,32.1775145,true
-411,Einti,Palmeira,9,13:48,-27.574998,true
-412,Blogspan,Waingapu,23,17:55,-9.7386858,false
-413,LiveZ,Xilai,62,11:29,32.116246,false
-414,Feedspan,Hitachi-Naka,39,17:42,36.4203181,false
-415,Jabbersphere,Auch,41,12:41,43.6297603,true
-416,Thoughtstorm,Langsa,25,15:11,4.4725348,false
-417,Jayo,Ferrol,56,13:49,12.309606,false
-418,Kwideo,Hengzhou,16,11:33,30.274084,true
-419,Zoombeat,Mardakyany,23,20:16,40.4810579,false
-420,Topicshots,Falun,46,10:08,60.6092521,false
-421,Browsedrive,Zgłobień,9,8:27,50.0113078,false
-422,Kaymbo,Slatina,67,8:27,45.9589716,true
-423,Browsezoom,Kupusina,62,11:27,45.7376939,true
-424,Kanoodle,Częstochowa,19,18:46,50.8667699,true
-425,Skyndu,Lazeshchyna,35,11:02,48.2735736,false
-426,Bubblemix,Tongquan,16,21:47,47.299613,true
-427,Zoovu,Huacheng,32,11:07,24.062988,true
-428,Jabbercube,Fengshan,28,17:10,24.546876,false
-429,Tagpad,Futian,18,11:01,22.521523,false
-430,Realcube,Hällefors,13,12:51,59.7714743,false
-431,Photospace,Bateria,65,20:23,9.9508447,false
-432,Thoughtsphere,Al Ḩawāmidīyah,9,16:02,29.9,true
-433,Gigashots,Río Blanco,57,20:16,12.9316668,true
-434,Jamia,Mehar,62,11:00,27.1668637,true
-435,Bluejam,Sakai,29,20:05,38.0409665,false
-436,Jetpulse,Jinshiqiao,26,8:10,40.6238989,false
-437,Digitube,Marjayoûn,51,16:50,33.3594755,false
-438,Flipbug,Tomaševac,11,11:03,45.2567087,true
-439,Dynazzy,Špišić-Bukovica,19,18:50,45.8580458,false
-440,Jabbersphere,Aguada de Pasajeros,29,9:14,22.3825415,false
-441,Fanoodle,Nong Ki,30,14:15,14.6746056,true
-442,Flipstorm,Tintina,35,8:44,-27.0307058,false
-443,Bluejam,Markaz al Marīr,62,18:37,13.98178,false
-444,Blognation,Aveiro,39,14:35,40.6394384,false
-445,Wordpedia,Lidingö,46,15:10,59.3497176,true
-446,Twitterwire,Catalina,35,14:39,48.51659,false
-447,Twimm,Gembu,12,18:28,6.7205676,true
-448,Realblab,Cortinhas,51,13:36,40.724331,false
-449,Skyble,Feliciano,1,12:09,14.6927715,true
-450,Mybuzz,Mizhhir’ya,51,16:15,48.5225505,false
-451,Divavu,Luziânia,39,21:31,-16.2513167,false
-452,Mymm,Mykonos,50,14:08,37.4467354,true
-453,Kazu,Bernay,39,14:56,49.0871049,true
-454,Shuffletag,Yerazgavors,33,9:17,40.7031503,false
-455,Divanoodle,Tulsa,60,9:45,36.1592882,true
-456,Yakijo,Huangnan,58,21:11,35.519548,false
-457,Feedbug,Shādegān,12,11:31,30.6545969,false
-458,Dynabox,Ust-Kamenogorsk,1,14:18,49.9749295,false
-459,Zoonoodle,Songbo,11,9:24,29.859258,true
-460,Wikizz,Huohua,61,15:54,25.689394,true
-461,Gabcube,Liberia,34,10:48,10.6267206,true
-462,Skiptube,Mranggen,17,12:26,-7.0425557,false
-463,Midel,Mikhaylovskoye,12,8:08,45.0636892,true
-464,Tekfly,Foundiougne,28,19:23,13.81425,false
-465,Zooveo,Haenam,59,10:21,34.5732516,false
-466,Agivu,Avignon,43,13:45,43.8317876,false
-467,Tavu,Jihlava,54,14:49,49.3983782,true
-468,Skyba,Luoping,61,21:24,24.884626,false
-469,Midel,Dongkeng,65,14:40,22.995838,true
-470,Oyonder,Khāsh,33,12:25,31.528143,false
-471,Brightdog,Marystown,37,16:45,47.16663,true
-472,Bubbletube,Sukoreno,35,18:14,-7.6411786,false
-473,Reallinks,Abengourou,47,14:02,6.7156982,false
-474,Skinder,Tamra,30,10:13,32.852247,false
-475,Jabberstorm,Muang Xay,67,14:01,20.690696,false
-476,Skivee,Ural,48,8:24,55.906648,true
-477,Brightbean,Hampang,43,17:19,-3.283333,true
-478,Lajo,Korosten’,57,21:39,50.9532135,true
-479,Topicware,Okigwi,27,10:21,5.8192832,false
-480,Livepath,Mulandoro,60,9:56,-8.5381,false
-481,Skyvu,Shchëkino,13,19:54,56.076372,false
-482,Midel,Lian,29,9:28,47.1892329,false
-483,Wikibox,Huangban,43,20:38,28.246367,false
-484,Brainsphere,Hrastnik,65,16:15,46.1417288,false
-485,Photobean,Dayuanhuizu,21,14:23,32.417346,true
-486,Quimm,Vesele,9,13:42,46.9821813,true
-487,Rhyloo,Siverskiy,39,19:15,59.4411274,true
-488,Agivu,Porto Seguro,50,11:35,-16.4443537,false
-489,DabZ,Darband,8,13:51,38.779525,false
-490,Midel,Otoka,32,14:58,43.8485035,false
-491,Innojam,Balta,36,20:06,47.9370871,false
-492,Einti,Tintina,11,10:23,-27.0307058,true
-493,Mita,Monte Caseros,33,15:28,-32.9576242,false
-494,Cogibox,Emiliano Zapata,47,9:07,17.7409147,true
-495,Meembee,Jardia,59,10:59,38.6640687,false
-496,Dynazzy,Callahuanca,15,18:58,-11.826817,false
-497,Divavu,Zernograd,19,9:11,46.8515406,true
-498,Yabox,Kawalimukti,46,19:42,-7.1841565,true
-499,Fanoodle,Espanola,54,21:57,46.2657181,true
-500,Ntags,Shimeitang,64,15:39,31.7238883,true
+1,Dabtype,Tall Salḩab,40,12:36,35.2593608,f
+2,Gabspot,Mamer,55,10:26,49.6306384,t
+3,Mita,Yono,45,19:45,35.0900891,t
+4,Skivee,Kampong Chhnang,44,13:48,12.1392352,f
+5,Oozz,El Carmen,50,14:08,-13.5033753,t
+6,Feedmix,Sławoborze,64,14:39,53.8917777,t
+7,Kwilith,Nanmo,21,21:13,49.1919498,t
+8,Voomm,La Concepción,59,14:08,11.940477,f
+9,Browsebug,Kachug,67,19:16,53.9608024,f
+10,Kimia,Xuedian,19,14:51,34.497578,t
+11,Thoughtbridge,Longgang,63,12:26,22.720974,f
+12,Mynte,Alicante/Alacant,27,18:22,38.3628307,t
+13,Bubblebox,Vischongo,51,11:51,-13.589688,f
+14,Skippad,Witbank,46,10:58,-25.8621309,f
+15,Voonder,Dafundo,45,10:53,38.7004199,f
+16,Trilith,Cikiruh,8,10:13,-6.8027421,f
+17,Thoughtbridge,Sarpang,2,21:07,26.9373041,t
+18,Edgeblab,Deep River,11,18:28,46.0972432,t
+19,Voolith,Seredeyskiy,26,10:04,54.0518227,t
+20,Riffpedia,Xitou,12,20:13,29.866917,f
+21,Livefish,Hekou,68,10:56,22.529403,t
+22,Skimia,Maştağa,53,10:42,40.5329933,f
+23,Browsecat,Iowa City,9,16:48,41.6613587,t
+24,Buzzster,Salt Lake City,41,8:59,40.7,f
+25,Fanoodle,Krasnoshchekovo,39,20:52,51.6661372,f
+26,Voomm,Xinmin,69,16:11,41.985186,t
+27,Jabbertype,Jin’e,25,11:54,38.487193,f
+28,Oodoo,Tolitoli,25,16:45,0.8768231,f
+29,Cogilith,Ouro Preto do Oeste,53,17:42,-10.7194641,t
+30,Ooba,Owando,19,19:34,-0.4829632,t
+31,Youtags,Tandou,24,18:41,22.884044,t
+32,Lajo,San Celestio,14,17:18,13.8801742,f
+33,Youopia,Jiangnan,27,10:22,22.781631,f
+34,Skivee,Liverpool,47,12:41,53.4913801,f
+35,Cogidoo,Meedhoo,19,11:25,-0.5833333,t
+36,Shufflebeat,Pare,5,21:01,-7.765512,f
+37,Eadel,Syriam,41,18:51,16.7587537,f
+38,Jayo,Lubāna,28,9:51,56.8999269,f
+39,Dynabox,Heze,65,21:39,35.23375,t
+40,Browseblab,Madingou,43,21:17,-4.1682452,t
+41,Jayo,Boissevain,30,16:33,49.23062,f
+42,Yakitri,Zongluzui,48,10:50,30.699439,f
+43,Voolith,Sembungan Kidul,52,19:00,-7.0054807,f
+44,Avavee,Gävle,50,13:23,60.6755434,t
+45,Rooxo,Yangjiafang,6,9:59,29.755129,t
+46,Quatz,Baishui,45,14:14,35.177451,f
+47,Gigaclub,Kyzyl-Burun,42,17:15,41.07754,t
+48,Skyba,Haicheng,27,16:13,40.882377,f
+49,Feedfish,Jingxi,26,9:12,23.134117,t
+50,Youtags,Rivadavia,30,14:28,-34.610303,t
+51,Eire,Jubao,39,9:57,23.1216171,f
+52,Quatz,Kuala Pilah,19,13:56,2.7299382,f
+53,Livepath,Kedungwringin,13,18:19,-7.4461263,f
+54,Mydeo,Longxi,38,21:15,35.00394,f
+55,Voomm,Baidoa,25,21:09,3.1140502,f
+56,Feedfish,Bandar-e Lengeh,6,13:44,26.5627867,f
+57,Skinte,Pameungpeuk,39,15:45,-7.6378396,t
+58,Kwinu,Phetchabun,29,14:10,16.8046261,f
+59,Eare,Xinhua,24,11:06,38.05106,t
+60,Fatz,Mullsjö,29,11:26,57.9250754,f
+61,Ooba,Margos,5,8:20,7.929855,t
+62,Realfire,Asnières-sur-Seine,42,9:22,48.9167257,t
+63,Devpulse,Gaoyu,16,21:09,32.781659,t
+64,Photofeed,Amsterdam,13,12:28,52.3612714,t
+65,Devpulse,Hidalgo,1,11:53,20.0910963,f
+66,Edgepulse,Pongkor,49,15:12,-8.6852273,t
+67,Jayo,Savitaipale,8,8:08,60.2213963,t
+68,Flipopia,Fushan,57,12:56,23.021478,t
+69,Tavu,Zlynka,51,10:07,48.4811908,f
+70,Npath,Ambato Boeny,2,19:07,-16.4708895,t
+71,Topdrive,Pa Phayom,57,14:36,7.8401615,f
+72,Flipbug,Santa Teresita,33,15:06,13.874099,f
+73,Skipfire,Vinnytsya,10,16:55,49.233083,t
+74,Devcast,Gujrāt,31,9:54,32.5734842,t
+75,Quamba,Xiji,38,11:58,35.963912,t
+76,Meevee,Cielmice,20,15:05,50.0138436,f
+77,Katz,Kuala Lumpur,8,12:15,3.1523104,f
+78,Mydo,Addiet Canna,36,8:24,11.2642678,t
+79,Ntag,Flagstaff,67,15:36,-31.3215134,t
+80,Skipstorm,Bhamdoûn el Mhatta,70,16:32,33.8088596,f
+81,Jabbercube,Basiao,7,16:33,10.0698222,t
+82,Photospace,Viçosa,61,19:02,-5.98978,f
+83,BlogXS,Toupi,13,21:12,26.751281,t
+84,Oyondu,Tours,61,10:41,47.3892142,f
+85,Eayo,Sikasso,2,17:27,11.3223834,t
+86,Abatz,Setro,33,21:42,-7.2914614,t
+87,Bubblebox,Znamenskoye,3,8:54,53.3062953,t
+88,Shufflester,Zemun,43,17:59,44.8532094,f
+89,Mudo,Las Tejerías,38,9:43,10.2568854,f
+90,Omba,Selishche,40,8:45,55.7675702,f
+91,Vinder,Monching,18,19:48,7.7381338,t
+92,Mydeo,Zhuanqiang,31,15:16,31.264895,t
+93,Vidoo,Ridder,6,16:24,50.3382214,t
+94,Fivechat,La Paz,7,18:28,-34.7486079,t
+95,Demivee,Chavárion,56,21:31,37.8471205,f
+96,Geba,Isiro,62,12:57,2.7722364,t
+97,Oyoba,Velké Bílovice,46,19:40,48.85786,f
+98,Thoughtbridge,Farnham,21,15:04,45.2865242,t
+99,Myworks,Łapczyca,57,12:33,49.9513027,t
+100,Topicstorm,Targowisko,2,14:43,49.9846292,t
+101,Aivee,Ocumare del Tuy,21,12:54,10.0897999,t
+102,Yakitri,Río Ceballos,37,19:03,-31.7436794,t
+103,Flashpoint,El Paso,57,14:56,31.77,t
+104,Twinder,Kamieniec Ząbkowicki,22,11:48,50.5251922,t
+105,Jaloo,Burmakino,55,10:24,57.4341878,t
+106,Blogtag,Trang,10,21:33,7.55633,f
+107,Linkbuzz,Fort Myers,7,18:50,26.6732151,f
+108,Reallinks,Liangjing,26,18:52,27.145704,t
+109,Brainsphere,Batujaran,53,11:11,-6.9144512,f
+110,Midel,Malaga,39,21:31,36.7226027,t
+111,Kwilith,Brikcha,41,13:21,34.9645166,t
+112,Twimbo,Calauag,19,17:52,13.9573134,f
+113,Browsetype,Bačka Topola,47,17:29,45.8144238,f
+114,Snaptags,Banjar Budakeling,52,18:35,-8.2104974,f
+115,Tagchat,Huhe,62,16:39,25.5020583,f
+116,Kimia,Krrabë,59,10:36,41.2177603,f
+117,Realmix,Saint-Jean-de-Monts,9,17:05,46.8260183,f
+118,Wikido,Xingyuan,62,9:02,23.681774,t
+119,Flashdog,Krajan Satu,5,10:55,-7.3743397,t
+120,Trilia,Gjegjan,13,16:55,41.9437159,f
+121,Jazzy,Gorna Oryakhovitsa,65,16:19,41.9250632,t
+122,Tekfly,Anhua Daying,49,10:26,24.414825,t
+123,Oloo,Benchu,41,17:36,40.457454,f
+124,Wikibox,Cholet,18,19:07,47.0615944,t
+125,DabZ,Balauring,42,14:50,-8.2864014,t
+126,Thoughtstorm,Des Moines,47,11:26,41.6,f
+127,Kwinu,Hor,39,15:34,30.77175,t
+128,Blogpad,Keyinhe,39,21:18,29.2594417,t
+129,Buzzbean,São Torcato,53,10:36,41.4833449,t
+130,Teklist,Pombal,2,14:36,-6.7708458,f
+131,Twimm,Amiens,51,8:04,49.8921732,f
+132,Tanoodle,Hroznětín,63,15:43,49.7503184,f
+133,Youtags,Zakupne,44,8:50,49.1184617,f
+134,Flashdog,Shimen,41,17:51,29.584292,t
+135,Quamba,Budakovo,62,8:58,42.3553237,f
+136,Devify,Tosno,61,9:01,59.5403823,t
+137,Digitube,La Tuque,31,8:34,47.4175416,t
+138,Trudoo,Tabanan,6,11:38,-8.4595561,t
+139,Viva,Cempaka,57,16:35,-3.4892191,t
+140,Tazzy,Rosso,21,20:33,16.5163413,t
+141,Janyx,Trzcińsko Zdrój,45,21:18,52.96446,t
+142,Kazio,Zubtsov,50,18:35,56.170028,f
+143,Geba,Yinjiacheng,41,20:32,36.188112,t
+144,Eazzy,Nyandoma,34,14:43,61.6614104,t
+145,Skajo,Capira,8,18:58,8.7600869,t
+146,Twimbo,Mexico,24,10:10,14.4783119,t
+147,Devpoint,Staré Město,22,17:53,50.1617318,f
+148,Yakitri,Lubichowo,11,13:51,53.8514527,t
+149,Babbleopia,Chaodi,23,14:52,28.099239,f
+150,Skyvu,Kosów Lacki,41,15:51,52.596028,t
+151,Dabvine,Guanhães,41,16:23,-18.8424187,t
+152,Wordify,Alberton,22,16:23,46.81685,f
+153,Kimia,Sísion,65,10:56,35.3085456,t
+154,Voonder,Castanheiro do Sul,65,12:17,41.1199378,f
+155,Thoughtstorm,Karlskoga,27,21:47,59.2423602,f
+156,Yata,Sahavato,42,10:04,-20.6,t
+157,Divape,Poja Nae,27,9:39,-8.50246,f
+158,Dablist,Mitsukaidō,58,15:19,36.229138,t
+159,Skiba,Wilmington,13,17:26,39.7472496,f
+160,Brainbox,Weishan,17,16:34,25.227212,t
+161,DabZ,Stockholm,10,13:00,59.2963732,f
+162,Digitube,Smederevska Palanka,27,14:58,44.367191,t
+163,Centizu,Blahodatne,30,14:10,47.7016459,t
+164,Blogspan,Deqing,54,19:07,30.54251,f
+165,Izio,Ryjewo,59,10:28,53.8446847,t
+166,Pixonyx,El Aguilar,61,11:39,-36.8868126,f
+167,Yata,Yolöten,58,9:54,37.2944409,f
+168,Yakitri,Lazaro Cardenas,23,9:55,18.2886378,f
+169,Photolist,Heping,9,18:51,24.44218,t
+170,Yabox,El Chol,7,13:45,14.9618641,f
+171,Skyndu,Chernyshevsk,17,20:54,52.4040809,f
+172,Jazzy,Ōme,33,14:13,38.9013413,f
+173,Kanoodle,Manado,66,12:43,1.4748305,t
+174,Lazzy,Loúros,55,11:35,39.162045,f
+175,Voolith,Xiyuan,24,16:10,30.5859716,f
+176,Photobean,Eslāmābād,70,10:52,38.1304493,f
+177,Flashset,Vesele,12,10:06,46.9821813,t
+178,Edgeclub,Corrego Grande,60,18:35,-27.593609,t
+179,Quimm,Nizui,56,11:25,42.280524,t
+180,Demizz,Idanha-a-Nova,8,19:06,39.9226488,t
+181,Dabtype,Feng’an,49,16:11,23.0981075,f
+182,Realcube,Évosmos,53,16:22,40.6661376,f
+183,Agivu,Luleå,59,13:41,65.5759908,t
+184,Photofeed,Karangsari,44,19:21,-6.427987,f
+185,Jetwire,Laocheng,63,17:11,34.683646,f
+186,Wikizz,Jieznas,40,21:35,54.6,f
+187,Leenti,Itacurubí del Rosario,53,8:48,-24.5415767,t
+188,Thoughtmix,Maranganí,20,17:00,-14.3568964,t
+189,Flipopia,Boston,25,14:02,42.34,f
+190,Linklinks,Provins,56,13:34,48.5625988,f
+191,Kazu,Phoenix,7,13:20,33.45,t
+192,Twiyo,Yingchun,48,20:38,44.9829,t
+193,Buzzshare,Bellavista,66,12:15,-12.0582305,t
+194,Yoveo,Nanterre,24,9:53,48.8967143,f
+195,Quinu,Jincheng,63,18:12,35.490701,f
+196,Skipfire,Dipayal,11,9:05,29.2604745,t
+197,Yadel,Pueblo Nuevo,28,13:52,9.0144214,f
+198,Kaymbo,Hulín,7,8:15,49.3168925,t
+199,Vimbo,Kruty,15,15:06,51.0566412,f
+200,Cogibox,Alīpur,44,11:56,29.3830191,t
+201,Jaloo,Quỳ Châu,53,16:36,19.5463056,t
+202,Bubblemix,Batojaran,1,17:48,-7.0555388,t
+203,Viva,Mesquite,29,17:14,32.7757,t
+204,Podcat,Hualongyan,44,18:59,30.170189,f
+205,Jetwire,Wang Yang,54,8:04,17.0740883,t
+206,Oodoo,Yubileyny,65,19:36,51.2343307,t
+207,Bluezoom,Santa Bárbara d'Oeste,58,15:48,-22.7557422,f
+208,Blogspan,Sipirok,30,21:07,1.616009,t
+209,Eidel,Ngã Bảy,38,11:58,9.8252566,f
+210,Skyba,Matwaḩ,14,11:33,15.0676,t
+211,Wikizz,Pingyin,34,16:16,36.289265,t
+212,Yakidoo,Bangbayang,64,18:30,-6.8734228,f
+213,BlogXS,Gaotuo,28,12:45,41.132444,t
+214,Yodoo,Zhongxing,25,16:07,30.920219,f
+215,Yakidoo,Cho-airong,64,15:18,6.2245859,t
+216,Skipfire,Cigeulis,14,14:30,-6.5881066,t
+217,Ailane,Baykonyr,52,17:36,45.6232258,f
+218,Tazz,Gaoyi,35,20:28,37.615159,t
+219,Gabtune,Bryansk,43,9:27,53.3249623,f
+220,Yambee,Saint Augustine,16,21:17,29.910184,t
+221,Eazzy,Lugovoy,5,9:17,42.9438711,f
+222,Chatterpoint,Bundoran,22,16:04,54.4771768,t
+223,Plambee,Ryūō,33,13:24,36.7846385,t
+224,Avavee,Airdrie,61,21:07,51.2828145,f
+225,Blogspan,Sonzacate,23,13:53,13.7374387,t
+226,Youopia,Bílovice,27,15:57,49.0996492,f
+227,Meevee,Río Ceballos,28,14:38,-31.7436794,f
+228,Meevee,Shevchenkove,51,13:11,49.6877737,t
+229,Jabberbean,El Tambo,44,18:20,1.4081109,t
+230,Vinder,Lapuz,55,12:40,14.7075271,f
+231,Riffpedia,Changzhi,27,14:42,36.195409,f
+232,Realbuzz,Hualfín,52,19:20,-34.7318914,f
+233,Kimia,Ergates,3,13:52,35.057659,f
+234,Browsebug,Sumuranyar,33,11:59,-7.7546,f
+235,Jetwire,Stockholm,62,12:38,47.0184615,f
+236,Innotype,Kuala Lumpur,17,17:03,3.2987908,t
+237,Skimia,Jiangtun,7,15:10,31.920658,t
+238,Livetube,Hantsport,24,10:33,45.06685,f
+239,Wordtune,Bristol,23,11:10,51.4063964,f
+240,Ntag,Jingling,17,13:20,30.96187,t
+241,Trudeo,Ziway,60,17:08,7.92772,t
+242,Photofeed,Longde Chengguanzhen,14,17:18,35.613293,t
+243,Zoombeat,Nova Petrópolis,30,17:57,-29.362503,f
+244,Twimbo,Pindi Bhattiān,38,19:49,31.9069842,t
+245,Oyoyo,Oqtosh,10,16:00,39.9225394,t
+246,Tanoodle,Uga,48,15:31,5.9353459,f
+247,Izio,Karang,28,14:18,-6.2691666,f
+248,Buzzster,Rato,21,18:20,-8.655524,f
+249,Skyble,Mertzig,69,10:23,49.8278894,f
+250,Twitterworks,Cikawung,21,20:30,-6.6047761,f
+251,Fadeo,Sölvesborg,68,14:39,56.0302709,f
+252,Browseblab,Lousado,18,19:19,41.3537964,f
+253,Bubblemix,Lanhe,39,16:27,22.838345,t
+254,Wordpedia,Villa Nueva,21,19:46,-31.4505323,t
+255,Oba,Wuning,56,21:37,29.256382,f
+256,Oodoo,Yijing,43,19:29,22.555855,f
+257,Riffpath,Wangjiachang,6,17:28,39.142026,f
+258,Kwideo,Ciengang,50,14:55,-7.0181673,t
+259,Yamia,Diavatós,28,18:49,40.5463267,t
+260,Abatz,Ježdovec,21,20:54,45.7788583,t
+261,Gabvine,Bluff,39,10:14,-46.5996116,f
+262,Jaxspan,Kandahār,26,21:25,31.628871,f
+263,Voonix,Hayang,40,12:02,35.9132087,f
+264,Jabbersphere,Artybash,63,18:05,51.791159,f
+265,Twiyo,Fuwah,18,14:32,31.2035483,t
+266,Tagpad,Xihanling,53,17:44,34.850606,t
+267,Oba,Zhongying,29,14:05,39.953041,t
+268,Vipe,Suileng,27,14:50,47.236015,t
+269,Devpoint,Bonanza,44,15:01,14.0312016,f
+270,Fivespan,Ipoh,59,18:58,4.6096768,f
+271,Meetz,Tailing,1,15:36,31.444052,t
+272,Oodoo,Nikol’skoye,10,13:00,45.0058742,t
+273,Yotz,Jiubao,3,9:26,30.30791,t
+274,Mybuzz,Cái Dầu,57,18:48,10.5682157,f
+275,Jayo,Baimiao,22,16:38,39.898215,f
+276,Yodoo,Kassel,6,11:22,51.2804955,f
+277,Oyoba,Płock,41,9:48,52.5363656,f
+278,Flipopia,Harrison,34,21:14,29.8867778,f
+279,Wordify,Mastaiciai,17,20:24,54.81998,f
+280,Edgeblab,Saguiaran,34,8:10,8.039166,f
+281,Meembee,Greenhills,31,17:49,53.3122864,t
+282,Voonte,Caramay,15,15:46,10.1866432,f
+283,Ntag,Kyŏngsŏng,46,12:34,41.5872,t
+284,Brainbox,Ḩabbān,52,12:14,14.3545083,f
+285,Twitterbeat,Zhanghua,33,15:50,37.029718,t
+286,Devcast,Xiaoguan,28,10:07,36.977145,t
+287,Chatterpoint,Rejasa Kaja,31,14:06,-8.447079,t
+288,Eire,Emporeío,40,15:09,36.3573462,t
+289,Linklinks,Labangka Satu,1,19:24,-8.906419,f
+290,Rhyzio,El Mirador,12,8:13,19.3267846,t
+291,Zooveo,Padasono,55,11:56,-7.3559,f
+292,Tagfeed,Meia Via,6,20:33,39.4721645,f
+293,Devify,Sasar,39,14:36,-9.2759427,f
+294,Meevee,Tianyi,33,18:10,22.278214,t
+295,Rhycero,Jeziora Wielkie,26,19:15,52.5295871,t
+296,Pixonyx,Kayes,25,20:56,-4.423943,f
+297,Youbridge,Renko,18,20:54,60.8936893,t
+298,Fivechat,Grenoble,22,11:14,45.1934857,f
+299,Babblestorm,Cereté,40,21:16,8.909013,t
+300,Trudeo,Qiling,59,13:27,24.086165,f
+301,Jayo,Dārāb,15,18:08,28.7559514,f
+302,Topicblab,Cigaras,29,13:08,14.2226543,t
+303,Realbridge,Karangkedawung,45,12:35,-7.4551089,t
+304,Realfire,Buri,38,19:54,-23.7981763,f
+305,Voolith,Shibi,49,13:06,26.244258,t
+306,Devshare,Vilarinho das Cambas,38,17:38,41.3929185,f
+307,Skippad,Madrid,38,13:50,40.500471,f
+308,Dabshots,Göteborg,31,13:37,57.6795423,f
+309,Kimia,Göteborg,33,8:41,57.6902027,t
+310,Twiyo,Bungu,21,20:35,-7.6263425,t
+311,Skimia,Pasirputih,26,19:01,-7.698725,f
+312,Zoozzy,Fengle,8,14:05,30.8346,f
+313,InnoZ,Qiling,70,15:13,24.086165,t
+314,Twitterwire,Khawr Maksar,7,11:07,12.8025919,t
+315,Flipopia,Jasugih Selatan,56,19:18,-6.4347,t
+316,Quimm,Karata,56,13:12,42.5969703,t
+317,Devbug,Batambak,35,16:52,-6.995577,f
+318,Skipfire,Balta,66,12:32,47.9370871,t
+319,Fivechat,Zhireken,54,21:29,52.8235876,f
+320,Gabspot,Puzi,6,17:13,23.4464152,t
+321,Thoughtbridge,Carrasqueira,40,17:15,40.6954986,f
+322,Mybuzz,San Andros,38,21:59,25.0522614,t
+323,Blogspan,Pakemitan,51,9:01,-6.9211461,t
+324,Bluezoom,Kurjan,52,12:08,40.7163491,f
+325,Camimbo,Taraan,65,13:30,3.3273599,t
+326,Myworks,Vesëlyy,26,15:31,47.0914911,t
+327,Jabbertype,Tsagaandörvölj,36,19:35,45.79817,f
+328,Skipfire,Xinpu,29,14:36,27.44587,f
+329,Mynte,Pidvolochys’k,19,10:26,49.5290848,t
+330,Fatz,Poja Nae,69,9:48,-8.50246,t
+331,Browsedrive,Muchkapskiy,70,14:13,51.8478427,f
+332,Quinu,Nawu,11,19:37,22.00001,t
+333,Realmix,Tierp,70,12:55,60.3448681,f
+334,Realpoint,Narvacan,3,18:43,17.4190115,f
+335,Brightbean,Okpoma,51,12:33,6.6635241,f
+336,Bluejam,Stizhkivs’ke,16,8:23,48.1181855,f
+337,Trilith,Mangkon Daja,14,16:42,-7.5002292,t
+338,Camimbo,Chazón,29,11:20,-33.079137,t
+339,Dynazzy,Berezne,6,11:43,50.9996233,f
+340,Kamba,Cácota,50,19:21,7.268697,t
+341,Pixonyx,Barisāl,22,21:54,22.7029212,t
+342,Eayo,Frankfurt am Main,42,10:01,50.041381,f
+343,Yodo,San Julian,67,8:13,11.748142,t
+344,Topicshots,San Carlos,60,15:24,-5.9649082,t
+345,Geba,Guhua,26,18:54,34.258826,f
+346,Skyndu,Nagaoka,37,13:41,38.0413984,t
+347,Dabtype,Agassiz,48,13:06,49.2389409,f
+348,Dabfeed,Huiwan,25,10:34,24.908293,f
+349,Meembee,Ondoy,66,17:29,11.8194472,t
+350,Zoozzy,Al Karmil,53,21:03,31.42301,f
+351,Tagcat,Zvezdara,11,14:56,44.7767137,f
+352,Skyble,Turbo,8,10:05,8.0951588,f
+353,Gabcube,San Juan Ixcoy,24,11:02,15.59972,f
+354,Rhynoodle,San Jerónimo,54,13:12,-13.54918,t
+355,Skippad,Nesterov,9,21:50,54.5979325,f
+356,Tagopia,Irirum,52,10:38,14.8431264,f
+357,Trudeo,Gahe,36,8:12,31.051908,f
+358,Thoughtworks,Changzhou,40,8:48,31.811226,t
+359,Zooxo,Datang,57,21:23,29.693316,f
+360,Devbug,Itaperuçu,46,16:38,-25.1169056,t
+361,Kaymbo,La Estrella,3,18:07,6.1317011,t
+362,Vinder,New Sibonga,36,12:21,10.0304186,t
+363,Plambee,Daugavgrīva,22,14:45,57.0408915,f
+364,Meejo,Peterhof,67,17:20,59.8863041,t
+365,BlogXS,Pinar del Río,25,15:17,22.4076256,f
+366,Katz,Tarsouat,37,8:44,29.5769271,t
+367,Oyonder,Fenghuang,68,19:08,27.948308,f
+368,Kwinu,Xiangyang,19,15:09,32.009016,t
+369,Ailane,Krasiczyn,15,19:21,49.7762204,f
+370,Oyonder,Pringgabaya,34,13:22,-8.5373782,f
+371,Linkbridge,Nizhniy Bestyakh,65,8:56,61.9639779,f
+372,Tazz,Nai Harn,34,15:04,7.7785093,f
+373,Fiveclub,Siderejo,7,18:56,-7.3055182,t
+374,Geba,Purwosari,34,11:31,-7.7629501,f
+375,Ozu,Eskilstuna,54,20:51,59.4084121,f
+376,Livetube,Kalāt-e Nāderī,1,17:47,36.99532,f
+377,Oozz,Pisaras,47,20:26,8.5703071,t
+378,Yombu,Tân Hòa,16,18:52,21.3971282,t
+379,Buzzbean,Tajan,59,9:32,-0.031303,t
+380,Wikido,Tuupovaara,40,14:50,62.4857735,f
+381,Yotz,Jinping,38,17:47,23.365556,f
+382,Kaymbo,Voronezh,35,15:40,51.7421319,t
+383,Topiczoom,Yaozhanzi,35,14:34,31.336174,t
+384,Rhyloo,Korsun’-Shevchenkivs’kyy,9,19:56,49.41894,f
+385,Skiptube,Agbani,46,21:50,6.3049636,f
+386,Jatri,Sonder,45,9:58,1.2730471,t
+387,Youspan,Visconde do Rio Branco,66,15:37,-21.013792,f
+388,Brainlounge,Fengshan,10,21:40,24.546876,f
+389,Flashset,Jiaokou,18,17:25,36.982186,f
+390,Trilia,Primero de Mayo,36,19:36,19.1753648,t
+391,Vipe,Zhuangbian,68,19:04,25.63273,t
+392,Buzzshare,Kingsey Falls,12,10:46,45.85007,f
+393,Camimbo,Kuantan,34,15:18,3.9671435,f
+394,Nlounge,Baima,47,14:18,29.528923,f
+395,Vitz,Takahagi,38,16:21,35.8966741,t
+396,Skidoo,Lanhas,46,16:46,41.6714042,f
+397,Tambee,Curuggoong,39,20:04,-6.2152002,f
+398,Buzzdog,Shanjeev Home,23,21:15,6.9787414,f
+399,Talane,‘Irbīn,58,8:12,33.5389052,f
+400,Thoughtmix,Bente,44,19:20,-1.955673,f
+401,Yoveo,København,9,17:25,55.6646665,f
+402,Feedfire,Uliastay,56,14:10,47.7277191,f
+403,Skyvu,Yebaishou,57,10:06,26.641315,t
+404,Brainsphere,Manassas,3,11:01,27.6112399,f
+405,Linkbuzz,Resende,59,20:58,-22.4709659,t
+406,Skyba,Samothráki,46,21:31,40.4476834,t
+407,Quatz,Omaha,51,17:06,41.2418116,t
+408,Jazzy,Pylaía,59,18:01,40.6027503,f
+409,Demizz,Lüyang,16,15:55,31.878735,t
+410,Thoughtstorm,Tilmi,61,17:02,32.1775145,t
+411,Einti,Palmeira,9,13:48,-27.574998,t
+412,Blogspan,Waingapu,23,17:55,-9.7386858,f
+413,LiveZ,Xilai,62,11:29,32.116246,f
+414,Feedspan,Hitachi-Naka,39,17:42,36.4203181,f
+415,Jabbersphere,Auch,41,12:41,43.6297603,t
+416,Thoughtstorm,Langsa,25,15:11,4.4725348,f
+417,Jayo,Ferrol,56,13:49,12.309606,f
+418,Kwideo,Hengzhou,16,11:33,30.274084,t
+419,Zoombeat,Mardakyany,23,20:16,40.4810579,f
+420,Topicshots,Falun,46,10:08,60.6092521,f
+421,Browsedrive,Zgłobień,9,8:27,50.0113078,f
+422,Kaymbo,Slatina,67,8:27,45.9589716,t
+423,Browsezoom,Kupusina,62,11:27,45.7376939,t
+424,Kanoodle,Częstochowa,19,18:46,50.8667699,t
+425,Skyndu,Lazeshchyna,35,11:02,48.2735736,f
+426,Bubblemix,Tongquan,16,21:47,47.299613,t
+427,Zoovu,Huacheng,32,11:07,24.062988,t
+428,Jabbercube,Fengshan,28,17:10,24.546876,f
+429,Tagpad,Futian,18,11:01,22.521523,f
+430,Realcube,Hällefors,13,12:51,59.7714743,f
+431,Photospace,Bateria,65,20:23,9.9508447,f
+432,Thoughtsphere,Al Ḩawāmidīyah,9,16:02,29.9,t
+433,Gigashots,Río Blanco,57,20:16,12.9316668,t
+434,Jamia,Mehar,62,11:00,27.1668637,t
+435,Bluejam,Sakai,29,20:05,38.0409665,f
+436,Jetpulse,Jinshiqiao,26,8:10,40.6238989,f
+437,Digitube,Marjayoûn,51,16:50,33.3594755,f
+438,Flipbug,Tomaševac,11,11:03,45.2567087,t
+439,Dynazzy,Špišić-Bukovica,19,18:50,45.8580458,f
+440,Jabbersphere,Aguada de Pasajeros,29,9:14,22.3825415,f
+441,Fanoodle,Nong Ki,30,14:15,14.6746056,t
+442,Flipstorm,Tintina,35,8:44,-27.0307058,f
+443,Bluejam,Markaz al Marīr,62,18:37,13.98178,f
+444,Blognation,Aveiro,39,14:35,40.6394384,f
+445,Wordpedia,Lidingö,46,15:10,59.3497176,t
+446,Twitterwire,Catalina,35,14:39,48.51659,f
+447,Twimm,Gembu,12,18:28,6.7205676,t
+448,Realblab,Cortinhas,51,13:36,40.724331,f
+449,Skyble,Feliciano,1,12:09,14.6927715,t
+450,Mybuzz,Mizhhir’ya,51,16:15,48.5225505,f
+451,Divavu,Luziânia,39,21:31,-16.2513167,f
+452,Mymm,Mykonos,50,14:08,37.4467354,t
+453,Kazu,Bernay,39,14:56,49.0871049,t
+454,Shuffletag,Yerazgavors,33,9:17,40.7031503,f
+455,Divanoodle,Tulsa,60,9:45,36.1592882,t
+456,Yakijo,Huangnan,58,21:11,35.519548,f
+457,Feedbug,Shādegān,12,11:31,30.6545969,f
+458,Dynabox,Ust-Kamenogorsk,1,14:18,49.9749295,f
+459,Zoonoodle,Songbo,11,9:24,29.859258,t
+460,Wikizz,Huohua,61,15:54,25.689394,t
+461,Gabcube,Liberia,34,10:48,10.6267206,t
+462,Skiptube,Mranggen,17,12:26,-7.0425557,f
+463,Midel,Mikhaylovskoye,12,8:08,45.0636892,t
+464,Tekfly,Foundiougne,28,19:23,13.81425,f
+465,Zooveo,Haenam,59,10:21,34.5732516,f
+466,Agivu,Avignon,43,13:45,43.8317876,f
+467,Tavu,Jihlava,54,14:49,49.3983782,t
+468,Skyba,Luoping,61,21:24,24.884626,f
+469,Midel,Dongkeng,65,14:40,22.995838,t
+470,Oyonder,Khāsh,33,12:25,31.528143,f
+471,Brightdog,Marystown,37,16:45,47.16663,t
+472,Bubbletube,Sukoreno,35,18:14,-7.6411786,f
+473,Reallinks,Abengourou,47,14:02,6.7156982,f
+474,Skinder,Tamra,30,10:13,32.852247,f
+475,Jabberstorm,Muang Xay,67,14:01,20.690696,f
+476,Skivee,Ural,48,8:24,55.906648,t
+477,Brightbean,Hampang,43,17:19,-3.283333,t
+478,Lajo,Korosten’,57,21:39,50.9532135,t
+479,Topicware,Okigwi,27,10:21,5.8192832,f
+480,Livepath,Mulandoro,60,9:56,-8.5381,f
+481,Skyvu,Shchëkino,13,19:54,56.076372,f
+482,Midel,Lian,29,9:28,47.1892329,f
+483,Wikibox,Huangban,43,20:38,28.246367,f
+484,Brainsphere,Hrastnik,65,16:15,46.1417288,f
+485,Photobean,Dayuanhuizu,21,14:23,32.417346,t
+486,Quimm,Vesele,9,13:42,46.9821813,t
+487,Rhyloo,Siverskiy,39,19:15,59.4411274,t
+488,Agivu,Porto Seguro,50,11:35,-16.4443537,f
+489,DabZ,Darband,8,13:51,38.779525,f
+490,Midel,Otoka,32,14:58,43.8485035,f
+491,Innojam,Balta,36,20:06,47.9370871,f
+492,Einti,Tintina,11,10:23,-27.0307058,t
+493,Mita,Rijeka,33,15:28,-32.9576242,f
+494,Cogibox,Rijeka,47,9:07,17.7409147,t
+495,Meembee,Split,59,10:59,38.6640687,f
+496,Dynazzy,Split,15,18:58,-11.826817,f
+497,Divavu,Split,19,9:11,46.8515406,t
+498,Yabox,Zagreb,46,19:42,-7.1841565,t
+499,Fanoodle,Zagreb,54,21:57,46.2657181,t
+500,Ntags,Zagreb,64,15:39,31.7238883,t
